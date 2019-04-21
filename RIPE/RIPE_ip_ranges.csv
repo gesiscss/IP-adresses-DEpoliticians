@@ -1,0 +1,877 @@
+,inet6num,name,inetnum,primary-key
+0,,"Bundesverfassungsgericht|Karlsruhe, Germany||",193.197.84.0 - 193.197.84.7,224854
+1,2003:44:8023::/48,BUNDESLIEGENSCHAFT-NET30|,,13182068
+2,2003:5e:2017::/48,BUNDESLIEGENSCHAFT|,,14925176
+3,2003:58:802b::/48,BUNDESLIEGENSCHAFT-NET|,,14244230
+4,2003:40:c025::/48,BUNDESLIEGENSCHAFT-NET|,,14313410
+5,2003:57:c06a::/48,BUNDESLIEGENSCHAFT-NET|,,14284551
+6,2003:56:a02c::/48,BUNDESLIEGENSCHAFT-NET43|,,13331066
+7,2003:45:c03f::/48,BUNDESLIEGENSCHAFT|,,13424194
+8,2003:48:8024::/48,BUNDESLIEGENSCHAFT-NET|,,14451347
+9,2003:46:e026::/48,BUNDESLIEGENSCHAFT-NET|,,14563184
+10,2003:40:402a::/48,BUNDESLIEGENSCHAFT-NET|,,14564859
+11,2003:4a:c055::/48,BUNDESLIEGENSCHAFT-NET|,,14564867
+12,2003:44:8083::/48,BUNDESLIEGENSCHAFT-NET|,,14565678
+13,2003:40:a016::/48,BUNDESLIEGENSCHAFT-NET|,,14148139
+14,2003:5d:c06a::/48,BUNDESLIEGENSCHAFT|,,15636642
+15,2003:8c:4011::/48,BUNDESLIEGENSCHAFT|,,15613834
+16,2003:44:e03b::/48,TSI fuer Bundeskanzleramt||BUNDESLIEGENSCHAFT-BERLIN-NET10|,,17660399
+17,,Bundesliegenschaft-NET5|,80.157.135.16 - 80.157.135.23,5595778
+18,,Bundesliegenschaft-NET1|,217.89.77.120 - 217.89.77.127,5626276
+19,,BUNDESLIEGENSCHAFT|,193.158.101.96 - 193.158.101.103,13967996
+20,,BUNDESLIEGENSCHAFT|,80.150.120.80 - 80.150.120.95,14868525
+21,,BUNDESLIEGENSCHAFT-NET12|,80.149.24.208 - 80.149.24.215,12754913
+22,,BUNDESLIEGENSCHAFT-NET41|,195.243.102.200 - 195.243.102.207,12828957
+23,,BUNDESLIEGENSCHAFT-NET35|,195.145.59.112 - 195.145.59.119,12906600
+24,,BUNDESLIEGENSCHAFT-NET36|,212.184.8.192 - 212.184.8.199,12906601
+25,,BUNDESLIEGENSCHAFT-NET40|,217.7.28.120 - 217.7.28.127,12906648
+26,,BUNDESLIEGENSCHAFT-NET39|,195.145.57.128 - 195.145.57.135,12906641
+27,,BUNDESLIEGENSCHAFT-NET15|,80.149.27.160 - 80.149.27.167,12818128
+28,,BUNDESLIEGENSCHAFT-NET16|,80.149.27.192 - 80.149.27.199,12818248
+29,,BUNDESLIEGENSCHAFT-NET22|,80.154.131.168 - 80.154.131.175,12828772
+30,,BUNDESLIEGENSCHAFT-NET21|,80.154.131.160 - 80.154.131.167,12828762
+31,,Bundesliegenschaft-NET9|,80.150.149.24 - 80.150.149.31,13509029
+32,,BUNDESLIEGENSCHAFT-NET|,217.6.108.232 - 217.6.108.239,13632778
+33,,Bundesliegenschaft-NET6|,217.6.126.0 - 217.6.126.7,13718843
+35,,BUNDESLIEGENSCHAFT-NET10|,193.159.252.144 - 193.159.252.151,12761688
+36,,BUNDESLIEGENSCHAFT-NET8|,80.149.24.168 - 80.149.24.175,12754839
+37,,BUNDESLIEGENSCHAFT-NET11|,80.149.24.176 - 80.149.24.183,12754842
+38,,BUNDESLIEGENSCHAFT-NET17|,62.159.110.88 - 62.159.110.95,13243640
+39,,BUNDESLIEGENSCHAFT-NET43|,193.158.239.224 - 193.158.239.231,13326148
+40,,BUNDESLIEGENSCHAFT-NET30|,217.5.129.160 - 217.5.129.167,13286342
+41,,BUNDESLIEGENSCHAFT-NET18|,80.149.133.128 - 80.149.133.135,12821922
+42,,BUNDESLIEGENSCHAFT-NET20|,80.154.131.144 - 80.154.131.151,12828753
+43,,BUNDESLIEGENSCHAFT-NET11|,193.158.46.96 - 193.158.46.103,12812047
+44,,BUNDESLIEGENSCHAFT-NET31|,193.158.45.160 - 193.158.45.167,12812620
+45,,BUNDESLIEGENSCHAFT-NET42|,217.7.52.128 - 217.7.52.135,12830189
+46,,BUNDESLIEGENSCHAFT-NET26|,80.154.134.16 - 80.154.134.23,12849309
+47,,BUNDESLIEGENSCHAFT-NET38|,193.159.161.144 - 193.159.161.151,12821490
+48,,BUNDESLIEGENSCHAFT-NET9|,62.153.82.232 - 62.153.82.239,12845832
+50,,BUNDESLIEGENSCHAFT-NET24|,80.154.133.240 - 80.154.133.247,12849303
+51,,BUNDESLIEGENSCHAFT-NET28|,80.154.134.40 - 80.154.134.47,12849315
+52,,BUNDESLIEGENSCHAFT-NET27|,80.154.134.24 - 80.154.134.31,12849311
+53,,BUNDESLIEGENSCHAFT-NET34|,217.7.114.120 - 217.7.114.127,12906597
+54,,BUNDESLIEGENSCHAFT-NET30|,193.158.45.144 - 193.158.45.151,12812583
+55,,BUNDESLIEGENSCHAFT-NET33|,193.158.45.184 - 193.158.45.191,12812659
+56,,BUNDESLIEGENSCHAFT-NET37|,193.158.46.120 - 193.158.46.127,12812135
+57,,BUNDESLIEGENSCHAFT-NET13|,80.149.27.128 - 80.149.27.135,12818085
+65,,BUNDESLIEGENSCHAFT-NET10|,62.157.143.248 - 62.157.143.255,12845959
+71,,BUNDESLIEGENSCHAFT-NET32|,193.158.45.168 - 193.158.45.175,12812621
+72,,BUNDESLIEGENSCHAFT-NET|,80.149.27.200 - 80.149.27.207,12821909
+75,,BUNDESLIEGENSCHAFT-NET25|,80.154.133.248 - 80.154.133.255,12849221
+76,,BUNDESLIEGENSCHAFT-NET19|,80.150.198.104 - 80.150.198.111,12845831
+81,,BUNDESLIEGENSCHAFT-NET|,80.156.198.0 - 80.156.198.7,14450521
+82,,BUNDESLIEGENSCHAFT-NET|,62.157.221.56 - 62.157.221.63,14563195
+83,,BUNDESLIEGENSCHAFT-NET|,62.157.221.8 - 62.157.221.15,14563139
+84,,BUNDESLIEGENSCHAFT-NET43|,217.243.236.48 - 217.243.236.55,14063227
+85,,BUNDESLIEGENSCHAFT-NET|,217.6.68.168 - 217.6.68.175,13912649
+86,,BUNDESLIEGENSCHAFT-NET|,194.25.16.40 - 194.25.16.47,13912671
+88,,BUNDESLIEGENSCHAFT-NET|,62.157.172.232 - 62.157.172.239,14140757
+89,,BUNDESLIEGENSCHAFT|,80.157.239.224 - 80.157.239.231,15599080
+90,,BUNDESLIEGENSCHAFT|,80.157.238.184 - 80.157.238.191,15589653
+91,,Bundesliegenschaft-NET4|,194.25.205.0 - 194.25.205.31,15197390
+92,,Bundesliegenschaft-NET7|,80.146.182.200 - 80.146.182.207,15094455
+94,,BUNDESLIEGENSCHAFT|,62.157.100.192 - 62.157.100.255,14913437
+95,,BUNDESLIEGENSCHAFT-BERLIN-NET|,80.154.114.232 - 80.154.114.239,13803258
+96,,Bundesliegenschaft-NET8|,212.185.172.192 - 212.185.172.223,15774282
+97,,BUNDESLIEGENSCHAFT|,62.153.82.0 - 62.153.82.7,9954722
+98,,BUNDESLIEGENSCHAFT|,62.154.151.32 - 62.154.151.47,9954729
+99,,TSI fuer Bundeskanzleramt||BUNDESLIEGENSCHAFT-BERLIN-NET10|,62.159.122.232 - 62.159.122.239,17629265
+100,2003:45:c05c::/48,TSI fuer Bundesministerium fuerWirtschaft und Energie||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-U-TECHNIK-BONN-NET2|,,14384014
+101,2003:51:603c::/48,TSI fuer Bundesministerium derFinanzen||,,14431137
+102,2003:84:a014::/48,TSI fuer Bundesministerium fuerWirtschaft und Energie||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-UND-TECHNOLOGIE-BERLIN-NET|,,15094832
+103,2a01:4f8:10a:94e::/64,Bundesministerium f Inneres||BUNDESMINISTERIUM-F-INNERES|,,17310979
+104,2003:44:603f::/48,"TSI fuer Bundesministerium fuerUmwelt, Naturschutz, Bau und||",,15573763
+105,2003:44:8076::/48,BUNDESMINISTERIUM-BERLIN-NET|,,14793895
+106,,Bundesministerium der Finanzen|Wilhelmstrasse 97|10117 Berlin||,77.74.237.0 - 77.74.237.31,6382134
+107,,Bundesministerium fuer Wirtschaft und Technologie||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-UND-TECHNOLOGIE-BERLIN-NET|,62.154.254.64 - 62.154.254.71,6543484
+108,,Bundesministerium der Finanzen|Wilhelmstrasse 97|10117 Berlin||,77.74.237.32 - 77.74.237.63,6729095
+109,,Beschaffungsamt des Bundesministeriums|Sankt Augustiner Str. 86|D-53225 Bonn||,78.35.22.144 - 78.35.22.159,6278721
+110,,"Bundesministerium fuer Ernaehrung, Landwirtschaft und Forsten|Scharrenstrasse 2-3|10178 Berlin|Remote connection to SAP||",212.63.165.164 - 212.63.165.167,291706
+111,,Bundesministerium der Finanzen|Graurheindorfer Strasse 108|53117 Bonn 05|Remote connection to SAP||,195.112.180.133 - 195.112.180.133,227033
+112,,Bundesministerium der Finanzen|Graurheindorfer Strasse 108|53117 Bonn 05|Remote connection to SAP||,195.112.175.60 - 195.112.175.63,227037
+113,,"Bundesministerium fuer Umwelt, Naturschutz, Bau und Reaktorsicherheit|Bonn||",195.37.130.0 - 195.37.131.255,407022
+114,,Bundesministerium fuer Wirtschaft und Arbeit|Villemombler Str. 76|D-53123 Bonn|Germany||,195.127.210.128 - 195.127.210.159,3880950
+115,,"TSI fuer Bundesministerium fuerUmwelt, Naturschutz, Bau und||",80.157.235.208 - 80.157.235.215,15558616
+116,,BUNDESMINISTERIUM DER FINANZEN||NET-DE-BUNDESMINISTERIUM-DER-FINANZEN|,62.96.238.184 - 62.96.238.191,16000734
+117,,Bundesministerium f Inneres||BUNDESMINISTERIUM-F-INNERES|,88.99.111.64 - 88.99.111.71,17400843
+119,,DE-Beschaffungsamt-des-Bundesministeriums-6617596|,62.220.28.128 - 62.220.28.131,6049097
+122,,Bundesministerium fuer Wirtschaft u. Technik||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-U-TECHNIK-BONN-NET|,194.25.174.112 - 194.25.174.119,6541559
+124,,Bundesministerium fuer Arbeit u. Soziales BMAS|Rochusstr. 1|D-53123 Bonn||,87.79.38.128 - 87.79.38.143,7274228
+125,,TSI fuer Bundesministerium derFinanzen||,195.243.136.112 - 195.243.136.119,10443177
+126,,Bundesministerium der Finanzen||,217.244.6.32 - 217.244.6.39,10311747
+127,,BUNDESMINISTERIUM FUER ARBEIT UND SOZIALES||NET-DE-BUNDESMINISTERIUM-IA|,62.96.129.16 - 62.96.129.23,8688362
+128,,BESCHAFFUNGSAMT DES BUNDESMINISTERIUMS DES INNERN||NET-DE-BESCHAFFUNGSAMT-DES-BUNDESMINISTERIUMS-DES-INNERN|,217.110.58.216 - 217.110.58.223,9275161
+129,,TSI fuer Bundesministerium derFinanzen||,62.153.205.224 - 62.153.205.231,10939250
+131,,TSI fuer Bundesministerium fuerWirtschaft und Energie||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-UND-TECHNOLOGIE-BERLIN-NET|,217.89.157.152 - 217.89.157.159,15075689
+132,,"BUNDESMINISTERIUM FUR FAMILIE, SENIOREN, FRAUEN UND JUGEND||NET-DE-BUNDESMINISTERIUM-FUR|",217.110.47.200 - 217.110.47.207,14969293
+137,,Bundesministerium f. Verkehr und digitale Infrastruktur|Robert-Schumann-Platz 1|D-53175 Bonn||,194.8.220.208 - 194.8.220.223,13652180
+138,2001:638:103::/48,"Universitaet der Bundeswehr Muenchen; Rechenzentrum|Werner-Heisenberg-Weg 39, D-85579 Neubiberg||",,2920486
+139,2a01:4f8:140:4464::/64,Bundesagentur für Arbeit / IT-Systemhaus||BUNDESAGENTUR-FUER-ARBEIT-IT-SYSTEMHAUS|,,11165472
+150,2001:638:821::/48,Deutscher Bundestag|11011 Berlin||ORG-DB45-RIPE|,,18486790
+151,2003:41:7b::/48,Bundesanstalt fuer Immobilien-aufgaben||,,17945264
+153,2a02:2ad0:249::/48,BUNDESAMT FUR SICHERHEIT IN DER INFORMATIONSTECHNIK||,,18021702
+155,2003:55:e0d6::/48,TSI fuer Bundesagentur fuer Arbeit||,,18182927
+156,2003:89:14::/48,TSI fuer Bundesagentur fuer Arbeit||,,18350928
+157,2003:5f:207b::/48,TSI fuer Bundesagentur fuer Arbeit||BUNDESANSTALT-F-ARBEIT-BORNA-STADT-NET|,,18274508
+159,2003:60:e030::/48,TSI fuer Bundesagentur fuer Arbeit||,,14174234
+162,2003:47:4011::/48,TSI fuer Bundesamt fuer Sicher-heit in der Informationtechnik||BUNDESAMT-FUER-SICHERHEIT-BONN-NET|,,13344517
+168,2003:55:c01d::/48,Bundesamt fuer Seeschifffahrt und Hydrographie||,,14459533
+169,2003:5c:a01e::/48,Bundesamt fuer Seeschifffahrt und Hydrographie||,,14446389
+170,2003:57:e02d::/48,Bundesamt fuer Seeschifffahrt und Hydrographie||,,14430916
+171,2001:638:615::/48,Geozentrum-Hannover|Bundesanstalt fuer Geowissenschaften und Rohstoffe||,,14507223
+173,2003:67:2029::/48,Bundesamt fuer Seeschifffahrt und Hydrographie||,,14446829
+175,2003:57:4029::/48,Bundesamt fuer Seeschifffahrt und Hydrographie||,,14440507
+178,2003:53:a058::/48,TSI fuer Bundesagentur fuer Arbeit||,,15278115
+179,2003:4e:e048::/48,TSI fuer Bundesagentur fuer Arbeit||,,15270287
+180,2003:55:6b::/48,TSI fuer Bundesagentur fuer Arbeit||,,15277666
+182,2003:5e:a03f::/48,TSI fuer Bundesagentur fuer Arbeit||,,15266708
+183,2003:49:8033::/48,TSI fuer Bundesagentur fuer Arbeit||,,15265673
+184,2003:8c:6011::/48,TSI fuer Bundesagentur fuer Arbeit||,,15251950
+185,2003:4c:603b::/48,TSI fuer Bundesagentur fuer Arbeit||,,15260881
+186,2003:59:c044::/48,TSI fuer Bundesagentur fuer Arbeit||,,15283405
+187,2003:53:3f::/48,TSI fuer Bundesagentur fuer Arbeit||,,15285392
+200,2003:47:51::/48,TSI fuer Bundesamt fuer Verfassungsschutz||,,15635640
+203,2003:64:c047::/48,Amt fuer Bundesbau Ministeriumder Finanzen||,,15410572
+205,2003:62:e090::/48,TSI fuer Bundesagentur fuer Arbeit||,,16045930
+206,2003:47:5d::/48,BUNDESWEHR-SOZIALWERK-BONN-NET|,,16045927
+207,2001:920:18bb::/48,BUNDESNETZAGENTUR||NET-DE-BUNDESNETZAGENTUR|,,16099286
+209,2a02:1030::/38,ORG-BMV1-RIPE|,,15105878
+210,2a02:1032:c100::/40,ORG-BMV1-RIPE|,,15109980
+211,2a02:1033:8000::/33,ORG-BMV1-RIPE|,,15112821
+212,2a02:1035::/32,ORG-BMV1-RIPE|,,15113040
+213,2a02:1038:8000::/33,ORG-BMV1-RIPE|,,15116639
+214,2a02:103f::/33,ORG-BMV1-RIPE|,,15116704
+215,2a02:1030:400::/38,ORG-BMV1-RIPE|,,15105885
+216,2a02:1035:8000::/33,ORG-BMV1-RIPE|,,15113060
+217,2a02:1016::/32,ORG-BMV1-RIPE|,,15105201
+218,2003:53:a037::/48,TSI fuer Bundesagentur fuer Arbeit||,,14689051
+221,2003:5f:17::/48,TSI fuer Bundesagentur fuer Arbeit||,,14082616
+222,2003:5f:16::/48,TSI fuer Bundesagentur fuer Arbeit||,,14082410
+226,2003:53:a01a::/48,TSI fuer Bundesagentur fuer Arbeit||,,14091192
+227,2003:49:a01e::/48,TSI fuer Bundesagentur fuer Arbeit||,,14076092
+230,2003:6e:801f::/48,DTAG-BUNDESWEHR-HAMMELBURG-NET|,,13939082
+231,2003:58:4039::/48,BUNDESWEHR-KRANKENHAUS-HAMBURG-NET|,,13945120
+232,2001:67c:67c::/48,ORG-BD44-RIPE|,,13988610
+234,2003:41:28::/48,TSI fuer Bundeskanzleramt||BUNDESKANZLERAMT-BERLIN-NET|,,13843005
+235,2003:5b:2013::/48,TSI fuer Bundesamt fuer Verfassungsschutz||,,13774342
+238,2003:4f:34::/48,TSI fuer Bundesagentur fuer Arbeit||,,14650054
+244,2003:53:a019::/48,TSI fuer Bundesagentur fuer Arbeit||,,14088081
+247,2001:638:bf5::/48,Bundesamt fuer Strahlenschutz||,,13888437
+248,2a02:103d:4000::/35,ORG-BMV1-RIPE|,,15116982
+249,2a02:103e::/37,ORG-BMV1-RIPE|,,15117198
+251,2003:55:40a0::/48,TSI fuer Bundesagentur fuer Arbeit||,,17240680
+252,2003:69:a025::/48,TSI fuer Bundesagentur fuer Arbeit||,,17240091
+253,2a01:4f8:191:5142::/64,Bundesanstalt Technisches Hilfswerk||BUNDESANSTALT-TECHNISCHES-HILFSWERK|,,17283501
+254,2003:53:12::/48,TSI fuer Bundesagentur fuer Arbeit||,,17293059
+255,2003:8b:401f::/48,TSI fuer Bundesagentur fuer Arbeit||,,17246509
+257,2003:70:e013::/48,TSI fuer Bundesagentur fuer Arbeit||,,17225340
+258,2a02:103a:8000::/33,ORG-BMV1-RIPE|,,15117295
+260,2a02:1034::/32,ORG-BMV1-RIPE|,,15112874
+261,2a02:1039::/33,ORG-BMV1-RIPE|,,15116667
+263,2a02:103b:4000::/34,ORG-BMV1-RIPE|,,15116827
+264,2a02:103d::/32,ORG-BMV1-RIPE|,,15116945
+265,2a02:103a::/32,ORG-BMV1-RIPE|,,15117247
+266,2a02:1032::/32,ORG-BMV1-RIPE|,,15109828
+267,2a02:1032:c200::/40,ORG-BMV1-RIPE|,,15109986
+268,2a02:1039:8000::/33,ORG-BMV1-RIPE|,,15116676
+269,2a02:103b::/32,ORG-BMV1-RIPE|,,15116802
+270,2a02:103d:9000::/36,ORG-BMV1-RIPE|,,15117014
+271,2a02:103a::/33,ORG-BMV1-RIPE|,,15117294
+272,2a02:103c:8000::/36,ORG-BMV1-RIPE|,,15116921
+273,2a02:103c:4000::/36,ORG-BMV1-RIPE|,,15116913
+274,2a02:103e:8000::/33,ORG-BMV1-RIPE|,,15117214
+275,2a02:1017::/33,ORG-BMV1-RIPE|,,15105711
+276,2a02:1030::/32,ORG-BMV1-RIPE|,,15105786
+286,2003:6e:a0a8::/48,BUNDESWEHR-HAMMELBURG-NET|,,16549918
+287,2003:8b:801a::/48,TSI fuer Bundesagentur fuer Arbeit||,,16664821
+289,2003:60:a039::/48,Bundesamt fuer Migration und Fluechtlinge||BUNDESAMT-FUER-MIGRATION-UND-FLUECHTLINGE-HEIDELBERG-NET|,,15285471
+292,2a02:103f::/32,ORG-BMV1-RIPE|,,15116691
+295,2003:6c:a034::/48,TSI fuer Bundesagentur fuer Arbeit||,,15132451
+297,2003:47:4b::/48,Bundesanstalt fuer Immobilien-aufgaben||BUNDESANSTALT-FUER-IMMOBILIENAUFGABEN-BONN-NET|,,15228551
+299,2a02:1035::/33,ORG-BMV1-RIPE|,,15113050
+300,2a02:103d:8000::/36,ORG-BMV1-RIPE|,,15116991
+301,2a02:1038::/32,ORG-BMV1-RIPE|,,15116181
+302,2a02:103b::/34,ORG-BMV1-RIPE|,,15116817
+303,2a02:103b:8000::/34,ORG-BMV1-RIPE|,,15116883
+304,2a02:103d::/37,ORG-BMV1-RIPE|,,15116955
+305,2a02:103e::/32,ORG-BMV1-RIPE|,,15117180
+311,2a02:1030:4000::/34,ORG-BMV1-RIPE|,,15105918
+312,2a02:1030:c000::/34,ORG-BMV1-RIPE|,,15105937
+316,2a02:103d:c000::/36,ORG-BMV1-RIPE|,,15117069
+317,2a02:103e:4000::/38,ORG-BMV1-RIPE|,,15117209
+318,2a02:1039::/32,ORG-BMV1-RIPE|,,15116661
+319,2a02:103c::/32,ORG-BMV1-RIPE|,,15116891
+323,2a02:1038::/33,ORG-BMV1-RIPE|,,15116625
+326,2a02:103d:2000::/37,ORG-BMV1-RIPE|,,15116971
+332,2003:5e:14::/48,BUNDESWEHRZENTRALKRANKENHAUS-KOBLENZ-NET|,,15708584
+336,2a01:4f8:172:364c::/64,Bundesanstalt Technisches Hilfswerk||BUNDESANSTALT-TECHNISCHES-HILFSWERK|,,16343569
+340,2a02:103d:b000::/36,ORG-BMV1-RIPE|,,15117064
+343,2003:47:e05c::/48,TSI fuer Bundesagentur fuer Arbeit||,,15171713
+345,2003:5d:a02d::/48,TSI fuer Bundesagentur fuer Arbeit||,,15281852
+347,2003:43:605f::/48,TSI fuer Bundesagentur fuer Arbeit||,,15281969
+348,2003:53:a057::/48,TSI fuer Bundesagentur fuer Arbeit||,,15265439
+349,2003:6b:c039::/48,TSI fuer Bundesagentur fuer Arbeit||,,15260232
+352,2a02:1030:800::/38,ORG-BMV1-RIPE|,,15105911
+354,2a02:1034::/33,ORG-BMV1-RIPE|,,15112878
+355,2a02:103c::/36,ORG-BMV1-RIPE|,,15116897
+362,2003:52:a01e::/48,TSI fuer Bundesagentur fuer Arbeit||,,14400616
+365,2003:64:402c::/48,TSI fuer Bundesagentur fuer Arbeit||,,14409792
+373,2003:41:f6::/48,BUNDESWEHR-KRANKENHAUS-BERLIN-NET|,,18073793
+377,2001:638:81d::/48,Deutscher Bundestag|11011 Berlin||ORG-DB45-RIPE|,,16840043
+381,2001:638:20b::/48,Max Rubner-Institut|Bundesforschungsinstitut fuer Ernaehrung und Lebensmittel||,,17685518
+384,2003:49:8058::/48,TSI fuer Bundesagentur fuer Arbeit||,,17768936
+386,2003:43:e057::/48,BUNDESWEHR-AUSBILDUNG-AACHEN-NET|,,16512482
+387,2003:55:c0::/48,TSI fuer Bundesagentur fuer Arbeit||,,16661012
+390,2003:56:c09f::/48,TSI fuer Bundesagentur fuer Arbeit||,,18240172
+393,2003:5e:ba::/48,TSI fuer Bundesarchiv||BUNDESARCHIV-KOBLENZ-NET|,,18211818
+400,2003:8c:2010::/48,TSI fuer Bundesagentur fuer Arbeit||,,18664557
+404,,Bundesamt fuer Verbraucherschutz u. Lebensmittelsicherheit|Mauerstr. 39|10117 Berlin||,213.71.142.160 - 213.71.142.191,5855652
+406,,Bundeswehr Zentrum||BUNDESWEHR-ZENTRUM-DRESDEN-NET|,195.243.94.72 - 195.243.94.79,5754267
+407,,Bundeswehr||BUNDESWEHR-WITTMUND-NET|,194.25.215.32 - 194.25.215.39,5760812
+408,,Bundesanstalt fuer Arbeit Arbeitsamt Eberbach||,195.243.141.152 - 195.243.141.159,2040159
+409,,Bundesanstalt fuer Arbeit Arbeitsamt Kandel||,62.154.221.32 - 62.154.221.39,2048557
+410,,Bundesanstalt fuer Arbeit Arbeitsamt Grevesmuehlen||,212.185.170.104 - 212.185.170.111,2187022
+411,,Bundesanstalt fuer Arbeit Arbeitsamt Schwerte||,212.185.15.120 - 212.185.15.127,2190494
+412,,Bundesanstalt fuer Arbeit Arbeitsamt Eutin||,193.159.178.56 - 193.159.178.63,2195274
+413,,Bundesanstalt fuer Arbeit Arbeitsamt Saarburg||,193.158.236.224 - 193.158.236.231,2197898
+414,,Bundesanstalt fuer Arbeit Arbeitsamt Flensburg||,212.185.170.96 - 212.185.170.103,2187021
+415,,Bundesanstalt fuer Arbeit Arbeitsamt Lueneburg||,212.185.15.104 - 212.185.15.111,2190483
+416,,Bundesanstalt fuer Arbeit Arbeitsamt Luenen||,212.185.15.112 - 212.185.15.119,2190490
+417,,Bundesanstalt fuer Arbeit Arbeitsamt Schleswig||,212.185.170.88 - 212.185.170.95,2187017
+420,,Bundespolizeiamt Koeln  Winkler/Bisschop||,83.236.227.45 - 83.236.227.45,4507924
+421,,Bundeswehr/Headquaters-2nd-German-Air-Division||,80.154.1.0 - 80.154.1.255,4554477
+422,,Bundesanstalt fuer Landwirtschaft und Ernaehrung (BLE)||,217.76.106.0 - 217.76.107.255,4348711
+424,,Bundespolizeiamt Koeln Winkler/Bisschop||,83.236.230.40 - 83.236.230.40,4507933
+428,,Bundesanstalt fuer Arbeit Arbeitsamt Wesel ARGE||,217.6.115.8 - 217.6.115.15,4797255
+429,,Bundesanstalt fuer Arbeit Arbeitsamt||,217.237.181.16 - 217.237.181.23,4753245
+430,,Bundesanstalt fuer Arbeit Arbeitsamt||,217.6.124.8 - 217.6.124.15,4747172
+432,,Gaestehaus der Bundesregierung Meseberg||GAESTEHAUS-DER-BUNDESREGIERUNG-MESEBERG-GRANSEE-NET|,217.237.175.112 - 217.237.175.119,5018912
+433,,"Bundesamt f?r Verbraucherschutz u. Lebensmittelsicherheit|Berlin, DEU||",213.71.10.120 - 213.71.10.123,4976667
+434,,Bundesnetzagentur|Semperstr. 7|D-01069 Dresden|Germany||,213.23.172.112 - 213.23.172.127,5124478
+436,,Bundesnetzagentur|Canisiusstr. 21|D-55122 Mainz|Germany||,213.23.198.160 - 213.23.198.175,5124688
+443,,Bundesagentur f. Arbeit-IT-Systemhaus Controlling/Finanzen|Regensburger Strasse 104|90478 Nuernberg||,62.214.112.192 - 62.214.112.195,6493031
+444,,Bundeswehrverwaltungsschule||BUNDESWEHRVERWALTUNGSSCHULE-OBERAMMERGAU-NET2|,62.153.226.112 - 62.153.226.119,6370034
+448,,Bundesanstalt fuer Arbeit Arbeitsamt Emmerich||,195.243.196.88 - 195.243.196.95,2066674
+449,,Bundesanstalt fuer Arbeit Arbeitsamt Kleve||,195.243.196.112 - 195.243.196.119,2066679
+450,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Ems||,195.243.250.168 - 195.243.250.175,2072107
+451,,Bundesanstalt fuer Arbeit Arbeitsamt Warendorf||,212.185.56.80 - 212.185.56.87,2066627
+452,,Bundesanstalt fuer Arbeit Arbeitsamt Olsberg||,212.185.56.112 - 212.185.56.119,2066640
+453,,Bundesanstalt fuer Arbeit Arbeitsamt Paderborn||,195.145.240.208 - 195.145.240.215,2086533
+454,,Bundesanstalt fuer Arbeit Arbeitsamt Bottrop||,212.185.56.88 - 212.185.56.95,2066631
+455,,Bundesanstalt fuer Arbeit Arbeitsamt Wesel||,195.243.196.80 - 195.243.196.87,2066672
+456,,Bundesanstalt fuer Arbeit Arbeitsamt Kamp-Lintfort||,195.243.196.104 - 195.243.196.111,2066678
+457,,Bundesanstalt fuer Arbeit Arbeitsamt Eisenberg||,195.243.189.0 - 195.243.189.7,2072027
+458,,Bundesanstalt fuer Arbeit Arbeitsamt Verden||,62.225.178.216 - 62.225.178.223,1766309
+459,,Bundesanstalt fuer Arbeit Arbeitsamt Coesfeld||,80.146.225.176 - 80.146.225.183,1766342
+461,,Bundesamt fuer Naturschutz|Konstantinstrasse 110|D-53179 Bonn||,217.76.99.160 - 217.76.99.223,1700851
+463,,Bundesarchiv|Finkensteinallee 63|D-12205 Berlin||,213.70.137.16 - 213.70.137.23,1692577
+464,,Bundesministerium der Finanzen||NET-DE-BUNDESMINISTERIUM-DER-FINANZEN|,217.110.186.216 - 217.110.186.223,1605552
+467,,Bundesanstalt für Arbeit|Budapester Str. 30|D-01069 Dresden||,62.159.183.56 - 62.159.183.63,1553956
+468,,Bundesanstalt fuer Arbeit Arbeitsamt Olpe||,217.5.201.152 - 217.5.201.159,2138866
+469,,Bundesanstalt fuer Arbeit Arbeitsamt Radeberg||,217.6.61.240 - 217.6.61.247,2157431
+472,,Bundesanstalt fuer Arbeit Arbeitsamt Kempten||,195.243.246.152 - 195.243.246.159,2156635
+473,,Bundesanstalt fuer Arbeit Arbeitsamt Hermeskeil||,217.7.90.248 - 217.7.90.255,2147264
+474,,Bundesanstalt fuer Arbeit Arbeitsamt Berchtesgaden||,62.154.225.248 - 62.154.225.255,2145626
+475,,Bundesanstalt fuer Arbeit Arbeitsamt Geithain||,195.243.246.144 - 195.243.246.151,2156629
+476,,Bundesanstalt fuer Arbeit Arbeitsamt Daun||,217.6.87.216 - 217.6.87.223,2156680
+478,,Bundesanstalt fuer Arbeit Arbeitsamt Freilassing||,212.184.23.248 - 212.184.23.255,2145674
+479,,Bundesanstalt fuer Arbeit Arbeitsamt Warburg||,80.156.10.16 - 80.156.10.23,2154444
+481,,Bundesanstalt fuer Arbeit Arbeitsamt Lpz.||,195.243.246.136 - 195.243.246.143,2156627
+485,,Bundesanstalt fuer Arbeit Arbeitsamt Konz||,62.225.158.216 - 62.225.158.223,2147328
+486,,Bundesanstalt fuer Arbeit Arbeitsamt Greven||,217.6.112.136 - 217.6.112.143,2134622
+488,,Bundesanstalt fuer Arbeit Arbeitsamt Lengerich||,217.6.112.144 - 217.6.112.151,2134625
+491,,Biologische Bundesanstalt|Schwabenheimer Strasse 101|D-69221 Dossenheim||,213.217.121.76 - 213.217.121.79,2052318
+493,,Bundesanstalt fuer Arbeit Arbeitsamt Plettenberg||,195.243.250.136 - 195.243.250.143,2072102
+494,,Bundesanstalt fuer Arbeit Arbeitsamt Hofgeismar||,195.243.250.176 - 195.243.250.183,2072119
+495,,Bundesanstalt f. Landw. u. Ernaehrung||BUNDESANSTALT-F-LANDW-U-ERNAEHRUNG-HAMBURG-NET|,212.185.56.64 - 212.185.56.71,2066613
+496,,Bundesanstalt fuer Arbeit Arbeitsamt Gelsenkirchen||,212.185.56.96 - 212.185.56.103,2066633
+498,,Bundesanstalt fuer Arbeit Arbeitsamt Grimmen||,217.5.144.56 - 217.5.144.63,2194073
+499,,Bundesanstalt fuer Arbeit Arbeitsamt Wolgast||,212.184.74.8 - 212.184.74.15,2190502
+500,,Bundesanstalt fuer Arbeit Arbeitsamt Kempten||,217.6.87.208 - 217.6.87.215,2156657
+504,,Bundesanstalt fuer Arbeit Arbeitsamt Burgwedel||,217.6.138.224 - 217.6.138.231,2013755
+505,,Bundesanstalt fuer Arbeit Arbeitsamt Rothenburg o d Tauber||,217.6.138.232 - 217.6.138.239,2013756
+506,,Bundesanstalt fuer Arbeit Arbeitsamt Waldmohr||,212.185.206.184 - 212.185.206.191,2017750
+507,,Bundesanstalt fuer Arbeit Arbeitsamt Homberg Efze||,212.184.122.240 - 212.184.122.247,2018938
+509,,Bundesanstalt fuer Arbeit Arbeitsamt Herten||,193.158.54.0 - 193.158.54.7,2073466
+510,,Bundesanstalt fuer Arbeit Arbeitsamt Zweibruecken||,217.7.28.96 - 217.7.28.103,2079822
+511,,Bundesanstalt fuer Arbeit Arbeitsamt Hoexter||,194.25.28.48 - 194.25.28.55,2086531
+513,,Bundesanstalt fuer Arbeit Arbeitsamt Warstein||,195.243.250.144 - 195.243.250.151,2072103
+514,,Bundesanstalt||BUNDESANSTALT-DETMOLD-NET|,62.159.148.216 - 62.159.148.223,1835171
+515,,Bundesanstalt fuer Arbeit Arbeitsamt Ludwigshafen||,62.153.149.136 - 62.153.149.143,1835202
+516,,Bundesanstalt fuer Arbeit Arbeitsamt Dueren||,217.237.161.232 - 217.237.161.239,1955852
+518,,Bundesanstalt fuer Arbeit Arbeitsamt 1 Nuernberg||,217.6.138.192 - 217.6.138.199,2013753
+519,,Bundesanstalt fuer Arbeit Arbeitsamt Landsberg am Lech||,80.154.5.64 - 80.154.5.71,2019340
+520,,Bundesanstalt fuer Arbeit Arbeitsamt Spremberg||,212.184.247.200 - 212.184.247.207,2019358
+522,,Bundesanstalt fuer Arbeit Arbeitsamt Herne||,217.5.215.32 - 217.5.215.39,1963434
+524,,Bundesanstalt fuer Arbeit Arbeitsamt Frechen||,195.243.246.120 - 195.243.246.127,2001403
+525,,Bundesanstalt fuer Arbeit Arbeitsamt Lohr||,195.243.246.88 - 195.243.246.95,2001400
+526,,Bundesanstalt fuer Arbeitsamt Illingen||,212.184.170.224 - 212.184.170.231,1983265
+528,,Bundesanstalt fuer Arbeit Arbeitsamt Hermannsburg||,217.6.138.216 - 217.6.138.223,2013757
+529,,Bundesanstalt fuer Arbeit Arbeitsamt Ludwigsstadt||,195.243.248.40 - 195.243.248.47,1960082
+531,,Bundesanstalt fuer Arbeit Arbeitsamt Burbach||,212.185.206.136 - 212.185.206.143,2017105
+532,,Bundesanstalt fuer Arbeit Arbeitsamt Starnberg||,62.159.114.56 - 62.159.114.63,1999946
+533,,Bundesanstalt fuer Arbeit Arbeitsamt Ochsenfurt||,195.243.246.96 - 195.243.246.103,2001401
+535,,Bundesanstalt fuer Arbeit Arbeitsamt Stadtroda||,195.243.189.16 - 195.243.189.23,2072039
+541,,Bundesanstalt fuer Arbeit Arbeitsamt Bruehl||,195.243.246.104 - 195.243.246.111,2001410
+542,,Bundesanstalt fuer Arbeit Arbeitsamt Walsrode||,217.6.138.200 - 217.6.138.207,2013754
+546,,Bundesanstalt fuer Arbeit Arbeitsamt Brand-Erbisdorf||,217.237.169.240 - 217.237.169.247,2083527
+547,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Harzburg||,217.237.169.216 - 217.237.169.223,2086613
+551,,"Bundesamt fuer Kartographie und Geodaesie|Forschungseinrichtung des Bundes|Geodaesie, Kartographie, Photogrammetrie|Frankfurt/Main||",193.174.164.0 - 193.174.166.255,2882833
+554,,Bundesarbeitsgericht|99084 Erfurt||BUNDESARBEITSGERICHT|,195.243.220.192 - 195.243.220.207,294344
+556,,"Bundesministerium fuer Ernaehrung, Landwirtschaft und Forsten|Scharrenstrasse 2-3|10178 Berlin|Remote connection to SAP||",195.112.182.143 - 195.112.182.143,280275
+559,,BUNDESTAG|ORG-DB45-RIPE|,193.17.232.0 - 193.17.247.255,257465
+562,,Physikalisch-Technische Bundesanstalt|Institut Berlin|PTB-laboratory at BESSY||,193.175.254.0 - 193.175.254.255,244823
+563,,LAN located in Berlin Charlottenburg|Physikalisch-Technische Bundesanstalt|Institut Berlin||,194.94.88.0 - 194.94.95.255,243460
+566,,Statistisches Bundesamt|Wiesbaden||,194.95.119.0 - 194.95.119.255,243401
+567,,Universitaet der Bundeswehr Hamburg|Holstenhofweg 85|D-22043 Hamburg||,139.11.0.0 - 139.11.255.255,257952
+569,,Bundesanstalt fuer Arbeit Arbeitsamt Vechta||,212.185.161.192 - 212.185.161.199,1794465
+570,,Bundesanstalt fuer Arbeit Arbeitsamt Leinefelde||,217.5.228.200 - 217.5.228.207,1803664
+571,,Bundesanstalt fuer Arbeit Arbeitsamt Emden||,212.184.121.216 - 212.184.121.223,1796155
+572,,Bundesanstalt fuer Arbeit Arbeitsamt Suhl||,217.5.228.176 - 217.5.228.183,1791281
+573,,Bundesanstalt fuer Arbeit Arbeitsamt Pinneberg||,217.5.203.208 - 217.5.203.215,1794527
+574,,Bundesanstalt fuer Arbeit Arbeitsamt Annaberg-Buchholz||,80.146.245.40 - 80.146.245.47,1782792
+575,,Bundesanstalt fuer Arbeit Arbeitsamt Gotha||,217.5.228.184 - 217.5.228.191,1791286
+576,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Salzungen||,217.5.228.168 - 217.5.228.175,1791274
+577,,Bundesanstalt fuer Arbeit Arbeitsamt Mainz||,62.153.208.152 - 62.153.208.159,1803682
+579,,Bundesanstalt fuer Arbeit Arbeitsamt Landau||,62.153.140.208 - 62.153.140.215,1803676
+582,,Bundesanstalt fuer Arbeit Arbeitsamt Muehlhausen||,217.5.228.152 - 217.5.228.159,1791269
+585,,Bundesanstalt fuer Arbeit Arbeitsamt Boeblingen||,62.154.199.8 - 62.154.199.15,1803654
+587,,Bundesanstalt fuer Arbeit Arbeitsamt Pirmasens||,80.156.10.128 - 80.156.10.135,1803652
+588,,Bundesanstalt fuer Arbeit Arbeitsamt Neuwied||,62.154.154.112 - 62.154.154.119,1828963
+590,,Bundesanstalt fuer Arbeit Arbeitsamt Ahlen||,212.184.247.152 - 212.184.247.159,1792072
+591,,Bundesanstalt fuer Arbeit Arbeitsamt Nordhausen||,217.5.228.56 - 217.5.228.63,1795213
+592,,Bundesanstalt fuer Arbeit Arbeitsamt Herrenberg||,212.185.170.64 - 212.185.170.71,2270011
+597,,"Bundesministerium fuer Bildung, Wissenschaft,|Forschung und Technologie, Bonn, Projekt profi||",195.37.100.0 - 195.37.101.255,177239
+601,,Bundeswehr Systeminstandsetzungszentrum 890|03253 Doberlug-Kirchhain|Remote connection to SAP||,195.112.168.24 - 195.112.168.27,199407
+602,,Physikalisch-Technische Bundesanstalt|Braunschweig||,194.95.250.32 - 194.95.250.47,166436
+604,,"Bundesaufsichtsamt fuer den Wertpapierhandel|Frankfurt, Germany||",195.35.32.48 - 195.35.32.63,193939
+605,,Bundeswehr Systeminstandsetzungszentrum 860|66606 St.Wendel|Remote connection to SAP||,195.112.190.52 - 195.112.190.52,199264
+606,,"Bundeswehr Systeminstandsetzungszentrum 800|Wilhelm-Johnen-Strasse 1, 52428 Juelich|Remote connection to SAP||",195.112.179.5 - 195.112.179.5,203077
+607,,"Bundesamt fuer Wehrverwaltung, Bonn|Remote connection to SAP||",195.112.190.33 - 195.112.190.33,198593
+608,,Bundeswehr Systeminstandsetzungszentrum 860|66606 St.Wendel|Remote connection to SAP||,195.112.168.44 - 195.112.168.47,199408
+611,,Bundeswehr Systeminstandsetzungszentrum 890|03253 Doberlug-Kirchhain|Remote connection to SAP||,195.112.178.232 - 195.112.178.232,199406
+612,,Bundeswehr Systeminstandsetzungszentrum 870|76887 Bad Bergzabern|Remote connection to SAP||,195.112.168.108 - 195.112.168.111,200216
+621,,Bundesdruckerei GmbH|TOranienstrasse 91|10969 Berlin 11|Remote connection to SAP||,195.112.180.119 - 195.112.180.119,226624
+625,,"Bundeswehr Systeminstandsetzungszentrum 800|Wilhelm-Johnen-Strasse 1, 52428 Juelich|Remote connection to SAP||",195.112.169.4 - 195.112.169.7,203129
+631,,Bundesanstalt fuer Arbeit Arbeitsamt Burg||,195.243.251.200 - 195.243.251.207,2383915
+632,,Bundesanstalt fuer Arbeit Arbeitsamt Loebau||,212.185.113.208 - 212.185.113.215,2399798
+634,,Bundesanstalt fuer Arbeit Arbeitsamt Vaihingen||,212.185.54.184 - 212.185.54.191,2376790
+635,,Bundesanstalt fuer Arbeit Arbeitsamt Goerlitz||,217.6.87.72 - 217.6.87.79,2358963
+636,,Bundesanstalt fuer Arbeit Arbeitsamt Konstanz||,212.184.205.208 - 212.184.205.215,2368233
+637,,Bundesanstalt fuer Arbeit Arbeitsamt Haldensleben||,195.243.251.176 - 195.243.251.183,2383911
+641,,Bundesinstitut fuer Arzneimittel und Medizinprodukte|Fachgebiet IT|Kurt-Georg-Kiesinger-Allee 3|53175 Bonn|GERMANY||,192.124.251.0 - 192.124.251.255,243443
+642,,"Physikalisch-Technische Bundesanstalt Berlin, IB.TI|10587 Berlin||",192.129.51.0 - 192.129.51.255,254581
+645,,Bundesanstalt fuer Geowissenschaften und Rohstoffe|Hannover||,193.174.160.0 - 193.174.163.255,406967
+646,,Bundesanstalt fuer Strassenwesen|Forschungsanstalt des Bundesministers fuer Verkehr BMV Bonn||,194.94.64.0 - 194.94.67.255,405680
+649,,Bundesanstalt fuer Arbeit Arbeitsamt Brandenburg||,217.6.138.160 - 217.6.138.167,1785730
+652,,Bundesanstalt fuer Arbeit Arbeitsamt Kiel||,212.185.49.240 - 212.185.49.247,1794516
+654,,Bundesanstalt fuer Arbeit Arbeitsamt Offenbach||,217.5.219.56 - 217.5.219.63,1792085
+657,,Bundesanstalt fuer Arbeit Arbeitsamt Jena||,217.5.228.160 - 217.5.228.167,1791273
+658,,Bundesanstalt fuer Gewaesserkunde|Koblenz||,193.175.192.0 - 193.175.192.255,406962
+660,,"Bundeswehrfachschule Hamburg|Osdorfer Landstrasse, 22589 Hamburg|Remote connection to SAP||",194.117.126.80 - 194.117.126.80,432401
+663,,Bundesanstalt Technisches Hilfswerk|Deutschherrenstr. 93-95|D-53177 Bonn|Germany||,213.70.9.88 - 213.70.9.95,3544571
+667,,Kraftfahrt-Bundesamt|Flensburg||,195.37.186.176 - 195.37.186.191,3880691
+669,,Bundesanstalt fuer Arbeit Arbeitsamt Biedenkopf||,217.243.190.224 - 217.243.190.231,2310496
+670,,"Bundesgerichtshof|Herrenstrasse 45a, 76133 Karlsruhe|Remote connection to SAP||",217.77.240.172 - 217.77.240.172,2329748
+672,,Bundesanstalt fuer Arbeit Arbeitsamt Gunzenhausen||,217.7.154.160 - 217.7.154.167,2319370
+673,,Bundesanstalt fuer Arbeit Arbeitsamt Dillenburg||,217.243.190.184 - 217.243.190.191,2309887
+674,,Bundesanstalt fuer Arbeit Arbeitsamt Ahaus||,217.237.164.200 - 217.237.164.207,2319356
+675,,Bundesanstalt fuer Arbeit Arbeitsamt Muellheim||,212.185.166.168 - 212.185.166.175,2332194
+676,,Bundesanstalt fuer Arbeit Arbeitsamt Arnstadt||,195.243.248.168 - 195.243.248.175,2358740
+679,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Duerkheim||,62.153.139.112 - 62.153.139.119,2319365
+680,,Bundesanstalt fuer Arbeit Arbeitsamt Gruenstadt||,217.237.163.88 - 217.237.163.95,2319367
+683,,Bundesanstalt fuer Arbeit Arbeitsamt Frankenthal||,217.237.163.80 - 217.237.163.87,2319366
+684,,Bundesanstalt fuer Arbeit Arbeitsamt Speyer||,62.159.102.32 - 62.159.102.39,2319368
+686,,Bundesanstalt fuer Arbeit Arbeitsamt Seligenstadt||,217.243.190.192 - 217.243.190.199,2309888
+692,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,83.236.157.240 - 83.236.157.247,3159826
+693,,Bundesamt fuer den Zivildienst|Sibille-Hartmann-Str. 2-8|D-50969 Koeln||BUNDESAMT-1|,194.8.203.112 - 194.8.203.127,3064533
+694,,"IT-Amt Bundeswehr, C2|August-Bebel-Str. 19, D-01219 Dresden||",212.80.237.104 - 212.80.237.111,3070386
+699,,Bundesanstalt fuer Arbeit Arbeitsamt Emsdetten||,217.6.112.128 - 217.6.112.135,2134617
+702,,Bundesanstalt fuer Arbeit Arbeitsamt Kulmbach||,217.6.3.240 - 217.6.3.247,2154648
+715,,Bundesamt fuer Bauwesen und Raumordnung|Am Michaelshof 8|D-53177 Bonn|DE||,195.126.31.0 - 195.126.31.255,521150
+725,,Bundeswehrverwaltungsschule||BUNDESWEHRVERWALTUNGSSCHULE-OBERAMMERGAU-NET|,217.7.172.176 - 217.7.172.183,6188631
+727,,Bundeszentrale für politische Bildung Bonn||,62.72.78.208 - 62.72.78.223,6241353
+728,,Bundesanstalt fuer Arbeit Arbeitsamt Bremen||,217.6.68.136 - 217.6.68.143,2023916
+729,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Bergzabern||,217.6.123.160 - 217.6.123.167,2048511
+734,,Bundesanstalt fuer Arbeit Arbeitsamt Koenigswinter||,212.185.206.176 - 212.185.206.183,2017712
+737,,Bundesanstalt fuer Arbeit Arbeitsamt Forst||,212.184.247.192 - 212.184.247.199,2019357
+738,,TSI fuer Bundesagentur fuer Arbeit||,80.157.191.0 - 80.157.191.7,14673347
+741,,Bundesanstalt fuer Arbeit Arbeitsamt Dillingen||,212.185.170.72 - 212.185.170.79,2187016
+745,,Bundesanstalt fuer Arbeit Arbeitsamt Parchim||,212.185.170.56 - 212.185.170.63,2187014
+758,,Bundesanstalt fuer Arbeit Arbeitsamt Anklam||,212.184.74.16 - 212.184.74.23,2190515
+759,,Bundesanstalt fuer Arbeit Arbeitsamt Buchholz||,212.185.15.64 - 212.185.15.71,2190347
+763,,Bundesanstalt fuer Arbeit Arbeitsamt Barsinghausen||,212.185.49.80 - 212.185.49.87,2196688
+764,,Bundesanstalt fuer Arbeit Arbeitsamt Bernkastel-Kues||,212.184.13.176 - 212.184.13.183,2197884
+766,,Bundesanstalt fuer Arbeit Arbeitsamt Pruem||,212.184.13.224 - 212.184.13.231,2197896
+767,,Bundesanstalt fuer Arbeit Arbeitsamt Rodgau||,217.243.190.200 - 217.243.190.207,2309889
+777,,Bundesanstalt fuer Arbeit Arbeitsamt Ulm||,62.154.139.8 - 62.154.139.15,1844698
+778,,Bundesanstalt fuer Arbeit Arbeitsamt Ludwigslust||,212.185.170.112 - 212.185.170.119,2187023
+780,,Bundesanstalt fuer Arbeit Arbeitsamt Donauwoerth||,212.185.170.80 - 212.185.170.87,2187019
+783,,Bundesanstalt fuer Arbeit Arbeitsamt Wittlich||,212.184.13.232 - 212.184.13.239,2197897
+787,,Bundesanstalt fuer Arbeit Arbeitsamt Hagenow||,212.185.170.120 - 212.185.170.127,2187024
+788,,Bundesanstalt fuer Arbeit Arbeitsamt Mayen||,212.185.15.56 - 212.185.15.63,2190322
+789,,Bundesanstalt fuer Arbeit Arbeitsamt Oldenburg||,193.159.178.64 - 193.159.178.71,2195275
+791,,Bundesanstalt fuer Arbeit Arbeitsamt Sinzig||,217.237.181.152 - 217.237.181.159,2199185
+797,,Bundesanstalt fuer Arbeit Arbeitsamt Hessisch Lichtenau||,212.184.122.248 - 212.184.122.255,2018942
+806,,Bundesanstalt fuer Arbeit Arbeitsamt Kirchheimbolanden||,80.154.5.80 - 80.154.5.87,2019453
+808,,Bundesanstalt fuer Arbeit Arbeitsamt Merzig||,217.5.165.24 - 217.5.165.31,2098832
+809,,Bundesanstalt fuer Arbeit Arbeitsamt Altenkirchen||,212.185.43.16 - 212.185.43.23,2098899
+812,,Bundesanstalt fuer Arbeit Arbeitsamt Neustadt||,212.185.43.8 - 212.185.43.15,2098898
+813,,Bundesanstalt fuer Arbeit Arbeitsamt Wadern||,217.5.165.40 - 217.5.165.47,2098891
+814,,Bundesanstalt fuer Arbeit Arbeitsamt Germersheim||,212.185.43.0 - 212.185.43.7,2098897
+815,,Bundesanstalt fuer Arbeit Arbeitsamt Wissen||,212.185.43.40 - 212.185.43.47,2098906
+820,,Bundesanstalt fuer Arbeit Arbeitsamt Betzdorf||,212.185.43.24 - 212.185.43.31,2098901
+821,,Bundesanstalt fuer Arbeit Arbeitsamt Aichach||,217.5.165.48 - 217.5.165.55,2098893
+822,,Bundesanstalt fuer Arbeit Arbeitsamt Saarlouis||,212.185.43.48 - 212.185.43.55,2098908
+828,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.112 - 80.149.166.119,15262462
+829,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.72 - 80.149.166.79,15262440
+830,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.88 - 80.149.166.95,15262443
+831,,TSI fuer Bundesagentur fuer Arbeit||,212.184.90.40 - 212.184.90.47,15249958
+832,,TSI fuer Bundesagentur fuer Arbeit||,62.157.196.64 - 62.157.196.71,15258348
+833,,TSI fuer Bundesagentur fuer Arbeit||,62.157.196.72 - 62.157.196.79,15258360
+834,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.48 - 80.149.166.55,15262418
+835,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.56 - 80.149.166.63,15262424
+836,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.96 - 80.149.166.103,15262449
+837,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.40 - 80.149.166.47,15262410
+840,,TSBS GmbH fuer Bundessortenamt||BUNDESSORTENAMT-HANNOVER-NET|,217.7.62.208 - 217.7.62.215,7149609
+842,,Bundesamt fuer Sicherheit in der Informationstechnik|Bonn||ORG-BL250-RIPE|,195.37.231.192 - 195.37.231.207,8588361
+848,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.8 - 80.149.166.15,15262353
+849,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.16 - 80.149.166.23,15262365
+850,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.64 - 80.149.166.71,15262425
+851,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.80 - 80.149.166.87,15262441
+852,,TSI fuer Bundesagentur fuer Arbeit||,217.5.248.208 - 217.5.248.215,15278080
+853,,TSI fuer Bundesagentur fuer Arbeit||,217.89.48.176 - 217.89.48.183,15278087
+854,,ZENTRUM-ZMZ-BUNDESWEHR-CLAUSEWITZ-KASERNE-NIENBURG-NET|,193.158.4.192 - 193.158.4.223,15323202
+856,,Bundesnetzagentur||BUNDESNETZAGENTUR-BONN-NET|,62.225.13.40 - 62.225.13.47,16400028
+865,,Bundeswehr Hepenser Groden||BUNDESWEHR-HEPENSER-GRODEN-WILHELMSHAVEN-NET2|,217.7.137.8 - 217.7.137.15,8396811
+867,,T-Systems International|Saonestr. 3|60528 Frankfurt; Germany|Address Range for Bundesagentur fur Arbeit (BA)||,93.122.70.160 - 93.122.70.191,7552908
+868,,Bundesamt fuer Sicherheit in der Informationstechnik|CERT-Bund|Godesberger Allee 185-189|53175 Bonn||ORG-CA1591-RIPE|,93.187.113.0 - 93.187.113.15,7630777
+870,,Bundesliegenschaft-NET2|,80.149.172.0 - 80.149.172.15,8435770
+873,,Bundesanstalt für Finanzmarktstabilisierung|Taunusanlage 6|60329 Frankfurt am Main||,77.74.239.64 - 77.74.239.79,8217662
+875,,Bundesanstalt fuer Immobilienaufgaben||NET-DE-BUNDESANSTALT-FUER-IMMOBILIENAUFGABEN|,213.61.228.0 - 213.61.228.7,9964791
+878,,BUNDESANSTALT FUR FINANZDIENSTLEISTUNGSAUFSICHT||NET-DE-BUNDESANSTALT-FUR|,217.110.32.32 - 217.110.32.47,10751674
+886,,Verband der Reservisten der Dt. Bundeswehr e.V.||,87.193.62.99 - 87.193.62.99,14543690
+897,,TSI fuer Bundesanstalt fuer Post-u Telek||,217.5.232.232 - 217.5.232.239,12284530
+899,,TSI fuer Bundesagentur fuer Arbeit||,62.156.186.176 - 62.156.186.183,17234728
+900,,TSI fuer Bundesagentur fuer Arbeit||,212.185.170.168 - 212.185.170.175,17229221
+914,,BUNDESANSTALT FÜR FINANZDIENSTLEISTUNGSAUFSICHT||NET-DE-BUNDESANSTALT-FR-FINANZDIENSTLEISTUNGSAUFSICHT|,217.110.88.128 - 217.110.88.143,9168983
+916,,Bundesanstalt fuer Arbeitsschutz und Arbeitsmedizin||,193.175.200.0 - 193.175.200.79,9303186
+917,,BUNDESANSTALT FÜR FINANZDIENSTLEISTUNGSAUFSICHT||NET-DE-BUNDESANSTALT-FR-FINANZDIENSTLEISTUNGSAUFSICHT|,213.61.186.232 - 213.61.186.239,9145090
+918,,Bundesnetzagentur|Talstr. 34|D-66119 Saarbruecken|Germany||,213.23.199.96 - 213.23.199.111,5136566
+935,,Verband der Reservisten der Deutschen Bundeswehr e.V.|Zeppelinstr. 7a|D-53177 Bonn||,213.168.79.48 - 213.168.79.55,10905493
+948,,Bundesarbeitsgericht|Hugo-Preuss-Platz 1|DE-99084 Erfurt||BUNDESARBEITSGERICHT|,171.33.185.144 - 171.33.185.159,13370806
+953,,Bundesnetzagentur|Aktienstr. 1-7|D-45473 Muelheim|Germany||,176.94.90.176 - 176.94.90.183,13596790
+958,,AMT-FERNMELDESYSTEME-BUNDESWEHR-STRAUSBERG-NET|,217.5.178.64 - 217.5.178.71,5596816
+961,,BUNDESNETZAGENTUR|,212.6.142.48 - 212.6.142.63,6776785
+962,,Kraftfahrt-Bundesamt|Flensburg||,195.37.186.16 - 195.37.186.31,6755370
+965,,BUNDESNETZAGENTUR|,212.6.139.64 - 212.6.139.79,6750485
+969,,Bundesamt für Familie und zivilgesellschaftliche Aufgaben||,217.69.82.80 - 217.69.82.95,13135712
+970,,BUNDESWEHR-KRANKENHAUS-HAMBURG-NET|,62.159.240.72 - 62.159.240.79,13928684
+973,,Bundesnetzagentur|Alter Hellweg 56|D- 44379 Dortmund|GERMANY||,176.94.119.200 - 176.94.119.207,13834442
+975,,Bundesamt fuer Verbraucherschutz und Lebensmittelsicherheit||,195.37.231.8 - 195.37.231.15,13989673
+981,,Bundeswehrkrankenhaus /Luftrettungsstation||,83.236.244.1 - 83.236.244.1,7170464
+982,,Bundeswehrkrankenhaus /Luftrettungsstation||,92.198.59.200 - 92.198.59.207,8059413
+985,,TSI fuer Bundesagentur fuer Arbeit||,193.159.169.96 - 193.159.169.103,18167972
+996,,TSBS GmbH fuer Bundesarchiv||BUNDESARCHIV-KOBLENZ-NET|,195.243.9.16 - 195.243.9.31,8283491
+998,,Bundesamt fuer Seeschifffahrt und Hydrographie||,194.25.252.200 - 194.25.252.207,14429896
+999,,Bundesamt fuer Seeschifffahrt und Hydrographie||,194.25.252.168 - 194.25.252.175,14429936
+1000,,Bundesamt fuer Seeschifffahrt und Hydrographie||,80.157.178.208 - 80.157.178.215,14429643
+1002,,Bundesamt fuer Seeschifffahrt und Hydrographie||,194.25.252.192 - 194.25.252.199,14429813
+1003,,Bundesamt fuer Seeschifffahrt und Hydrographie||,80.150.164.232 - 80.150.164.239,14434868
+1005,,TSI fuer Bundesministerium fuerWirtschaft und Energie||BUNDESMINISTERIUM-FUER-WIRTSCHAFT-U-TECHNIK-BONN-NET2|,80.156.251.240 - 80.156.251.247,14376927
+1011,,DEUTSCHER BUNDESTAG||NET-DE-DEUTSCHER-BUNDESTAG|,213.61.66.208 - 213.61.66.215,7748297
+1027,,CDU / CSU - FRAKTION IM DEUTSCHEN BUNDESTAG||,62.50.36.160 - 62.50.36.167,8629520
+1031,,Bundeswehr HFLgWaS||BUNDESWEHR-HFLGWAS-BUECKEBURG-NET|,62.225.115.96 - 62.225.115.103,5749696
+1032,,Bundeswehr Hepenser Groden||BUNDESWEHR-HEPENSER-GRODEN-WILHELMSHAVEN-NET|,62.225.115.88 - 62.225.115.95,5760793
+1034,,Bundesamt fuer Finanzen|KEVIZZ-SINA-NET||,80.245.148.0 - 80.245.151.255,5784178
+1035,,Bundeswehr FlaRakG2||BUNDESWEHR-FLARAKG2-BAD-SUELZE-NET|,62.156.239.224 - 62.156.239.231,5746050
+1037,,Bundeswehr Zentrum||BUNDESWEHR-ZENTRUM-DRESDEN-NET|,212.185.81.176 - 212.185.81.183,5754261
+1039,,BUNDESLIEGENSCHAFT|,217.6.7.192 - 217.6.7.255,13552376
+1040,,"Bundesanstalt fuer Post und Telekommunikation|Maybachstr. 54-56, 70469 Stuttgart||",82.98.104.176 - 82.98.104.191,13779790
+1042,,DTAG-BUNDESWEHR-HAMMELBURG-NET|,62.157.210.248 - 62.157.210.255,13892701
+1044,,BUNDESLIEGENSCHAFT-NET|,62.157.221.48 - 62.157.221.55,14563141
+1045,,BUNDESLIEGENSCHAFT-NET|,62.157.221.40 - 62.157.221.47,14563140
+1053,,Bundesanstalt fuer Landwirt- schaft und Ernaehrung||BUNDESANSTALT-LANDWIRTSCHAFT-ERNAEHRUNG-BONN-NET|,212.185.113.168 - 212.185.113.175,10239520
+1055,,ORG-KBS6-RIPE|,212.185.74.0 - 212.185.74.63,10326340
+1057,,Bundesinstitut fuer Risikobewertung||,31.185.104.1 - 31.185.104.15,10137680
+1068,,Bundesnetzagentur||BUNDESNETZAGENTUR-CHEMNITZ-NET|,194.25.203.8 - 194.25.203.15,7006274
+1073,,Bundeswehrkrankenhaus Ulm Herr Ruediger||,92.198.61.196 - 92.198.61.196,7085834
+1082,,Verband der Reservisten der Dt. Bundeswehr e.V.||,84.245.143.240 - 84.245.143.247,12228851
+1084,,Bundesnetzagentur|Mainz||,193.155.17.0 - 193.155.17.255,12293470
+1088,,TSI fuer Bundesagentur fuer Arbeit||,193.158.8.136 - 193.158.8.143,12094681
+1089,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,212.202.252.156 - 212.202.252.156,12128759
+1100,,BUNDESLIEGENSCHAFT-NET2|,62.153.64.232 - 62.153.64.239,12727751
+1105,,BUNDESLIEGENSCHAFT-NET3|,195.145.93.64 - 195.145.93.71,12727774
+1106,,BUNDESLIEGENSCHAFT-NET7|,195.145.93.80 - 195.145.93.87,12727793
+1107,,BUNDESLIEGENSCHAFT-NET|,62.153.64.224 - 62.153.64.231,12727748
+1108,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.142.25 - 87.193.142.25,16096515
+1109,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.234.238.20 - 87.234.238.20,16142776
+1110,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.136.88 - 87.193.136.88,16096518
+1113,,BUNDESNETZAGENTUR||NET-DE-BUNDESNETZAGENTUR|,217.110.52.48 - 217.110.52.55,16099285
+1114,,Bundesamt fuer Migration und Fluechtlinge||,94.101.41.88 - 94.101.41.91,16090014
+1115,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.133.16 - 87.193.133.23,16096519
+1116,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.133.48 - 87.193.133.55,16096531
+1126,,BUNDESLIEGENSCHAFT-NET23|,80.154.131.176 - 80.154.131.183,12828773
+1133,,BUNDESLIEGENSCHAFT-NET29|,80.154.134.48 - 80.154.134.55,12849319
+1137,,BUNDESLIEGENSCHAFT-NET12|,193.158.46.112 - 193.158.46.119,12834833
+1143,,BUNDESLIEGENSCHAFT-NET14|,80.149.27.152 - 80.149.27.159,12818122
+1150,,Bundesamt fuer Verbraucherschutz und Lebensmittelsicherheit||,195.37.184.96 - 195.37.184.119,13231681
+1167,,Wulflamhaus fuer Bundespresseamt||,62.159.136.232 - 62.159.136.239,13708321
+1190,,TSI fuer Bundesagentur fuer Arbeit||,80.150.81.80 - 80.150.81.87,14392030
+1193,,Bundespresseamt Public IP Space||,194.29.227.208 - 194.29.227.223,14460325
+1194,,Bundespresseamt Public IP Space||,194.29.231.0 - 194.29.231.255,14462546
+1196,,DTAG-BILDUNGSZENTRUM-DER-BUNDESWEHR-MANNHEIM-NET|,62.153.237.40 - 62.153.237.47,14704410
+1197,,TSI fuer Bundesagentur fuer Arbeit||,195.145.240.128 - 195.145.240.135,14684884
+1208,,BUNDESANSTALT FÜR FINANZDIENSTLEISTUNGSAUFSICHT||NET-DE-BUNDESANSTALT-FR-FINANZDIENSTLEISTUNGSAUFSICHT|,217.111.31.176 - 217.111.31.191,9145088
+1210,,Bundesanstalt fuer Arbeit Arbeitsamt Magdeburg||,80.146.176.72 - 80.146.176.79,9374441
+1213,,BUNDESANSTALT FÜR FINANZDIENSTLEISTUNGSAUFSICHT||NET-DE-BUNDESANSTALT-FR-FINANZDIENSTLEISTUNGSAUFSICHT|,213.61.184.144 - 213.61.184.151,9145089
+1227,,TSI fuer Bundesanstalt fuer Post-u Telek||,217.6.46.152 - 217.6.46.159,11952112
+1229,,Bundesamt fuer Verbraucherschutz und Lebensmittelsicherheit||,195.37.181.192 - 195.37.181.223,10161888
+1244,,BUNDESLIEGENSCHAFT|,195.145.201.160 - 195.145.201.191,12448553
+1258,,BUNDESLIEGENSCHAFT-NET|,217.6.26.232 - 217.6.26.239,14309545
+1261,,Bundeslehranstalt Burg Warberge.V.||BUNDESLEHRANSTALT-WARBERG-NET|,62.153.86.8 - 62.153.86.15,14972198
+1263,,Bundeswehr|,80.254.131.40 - 80.254.131.47,15039821
+1264,,Bundeswehr|,80.254.131.32 - 80.254.131.39,15039819
+1266,,TSI fuer Bundesagentur fuer Arbeit||,217.89.189.88 - 217.89.189.95,15082388
+1271,,Max Rubner-Institut|Bundesforschungsinstitut fuer Ernaehrung und Lebensmittel||,195.37.181.224 - 195.37.181.255,10178448
+1288,,DBwV - Deutscher Bundeswehr Verband e.V.||,213.148.157.47 - 213.148.157.47,15956539
+1292,,TSI fuer Bundesagentur fuer Arbeit||,217.243.136.40 - 217.243.136.47,16025099
+1294,,Bundesnetzagentur|Kanalweg 90|D-76149 Karlsruhe|GERMANY||,176.94.29.152 - 176.94.29.159,15802496
+1295,,Bundesnetzagentur|Sedanstr. 14b|D-24116 Kiel|GERMANY||,88.79.103.128 - 88.79.103.135,15788036
+1302,,TSI fuer Bundeskriminalamt||,80.150.197.184 - 80.150.197.191,15934007
+1329,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.251.224 - 87.193.251.231,16142792
+1344,,TSI fuer Bundesagentur fuer Arbeit||,212.184.189.72 - 212.184.189.79,16650437
+1345,,TSI fuer Bundesagentur fuer Arbeit||,217.89.65.112 - 217.89.65.119,16657361
+1346,,TSI fuer Bundesagentur fuer Arbeit||,195.145.66.112 - 195.145.66.119,16663191
+1347,,TSI fuer Bundesagentur fuer Arbeit||,217.237.181.144 - 217.237.181.151,16667511
+1349,,Bundesministerium der Finanzen||NET-DE-BUNDESMINISTERIUM-DER-FINANZEN|,213.61.66.128 - 213.61.66.135,14342233
+1350,,TSI fuer Bundesagentur fuer Arbeit||,80.152.48.88 - 80.152.48.95,14384630
+1358,,TSI fuer Bundesanstalt fuer Post-u Telek||,217.6.209.128 - 217.6.209.135,12731991
+1364,,BUNDESLIEGENSCHAFT-NET5|,193.158.87.200 - 193.158.87.207,12728741
+1365,,Bundesanstalt fuer IT-Dienstleistungen|Am Ehrenberg 8|D-98693 Illmenau||BUNDESANSTALT_FUER_IT-DIENSTLEISTUNGEN-TRAN-NET|,80.228.247.184 - 80.228.247.191,12899353
+1368,,TSI fuer Bundesamt fuer Verfassungsschutz||,217.243.133.208 - 217.243.133.223,15123119
+1369,,TSI fuer Bundesagentur fuer Arbeit||,80.156.10.216 - 80.156.10.223,15131753
+1370,,Bundesamt fuer Migration und Fluechtlinge||BUNDESAMT-FUER-MIGRATION-UND-FLUECHTLINGE-HEIDELBERG-NET|,217.7.117.160 - 217.7.117.167,15284898
+1373,,TSI fuer Bundesagentur fuer Arbeit||,62.153.238.72 - 62.153.238.79,15258347
+1374,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.32 - 80.149.166.39,15262403
+1375,,TSI fuer Bundesagentur fuer Arbeit||,217.6.196.176 - 217.6.196.183,15266478
+1377,,TSI fuer Bundesagentur fuer Arbeit||,80.149.240.208 - 80.149.240.215,15260616
+1378,,Robert-Koch-Institut|Bundesinstitut fuer Infektionskrankheiten|und nicht uebertragbare Krankheiten|Berlin||,193.175.81.0 - 193.175.81.255,1687737
+1379,,Avaya Deutschland GmbH c/o Bundesagentur fuer||,212.202.233.164 - 212.202.233.167,2859594
+1380,,Avaya Deutschland GmbH c/o Bundesagentur fuer||,83.236.184.176 - 83.236.184.183,3444995
+1381,,Max Rubner-Institut|Bundesforschungsinstitut fuer Ernaehrung und Lebensmittel||,195.37.32.128 - 195.37.32.255,17680485
+1390,,Bundeswehrkrankenhaus /Luftrettungsstation Christoph 22||,87.193.253.32 - 87.193.253.32,17432093
+1393,,TSI fuer Bundesagentur fuer Arbeit||,80.146.231.104 - 80.146.231.111,16650439
+1395,,TSI fuer Bundesagentur fuer Arbeit||,217.89.159.168 - 217.89.159.175,16657360
+1401,,Deutscher Bundestag|11011 Berlin||ORG-DB45-RIPE|,193.175.67.128 - 193.175.67.191,16840930
+1402,,DTAG-BUNDESRAT-1-BERLIN-NET|,80.149.255.80 - 80.149.255.87,14288607
+1403,,BUNDESLIEGENSCHAFT-NET|,62.153.222.168 - 62.153.222.175,14267495
+1404,,TSI fuer Bundesagentur fuer Arbeit||,217.89.144.72 - 217.89.144.79,18199482
+1406,,TSI fuer Bundesagentur fuer Arbeit||BUNDESANSTALT-F-ARBEIT-BORNA-STADT-NET|,80.150.214.88 - 80.150.214.95,18254286
+1408,,Deutscher Bundestag|11011 Berlin||ORG-DB45-RIPE|,195.37.32.96 - 195.37.32.127,18486854
+1410,,AMT-FUER-GEOINFORMATIONSWESEN-BUNDESWEHR-EUSKIRCHEN-NET|,195.243.195.176 - 195.243.195.183,18557491
+1417,,Rechenzentrum der Bundeswehr||RECHENZENTRUM-BUNDESWEHR-STRAUSBERG|,217.89.41.232 - 217.89.41.239,3574928
+1420,,Bundeswehrkrankenhaus /Luftrettungsstation||,92.198.23.90 - 92.198.23.90,18590970
+1421,,BUNDESSPRACHENAMT-GEB2-GEB-6-RAUM-9-NAUMBURG-NET|,62.225.187.184 - 62.225.187.191,18614157
+1427,,Bundesamt fuer Naturschutz|Bonn||,194.95.197.0 - 194.95.197.63,18660698
+1428,,TSI fuer Bundesagentur fuer Arbeit||,87.128.204.80 - 87.128.204.87,18658694
+1448,2003:5b:c01c::/48,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET|,,13402110
+1450,2003:5a:c024::/48,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-BONN-NET|,,13928361
+1454,2003:44:c128::/48,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-BERLIN-NET|,,16447382
+1464,2003:5a:c015::/48,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET|,,17303102
+1497,,Zollkriminalamt|Bergisch-Gladbacher-Str. 837|D-51069 Koeln|Germany||,145.253.181.56 - 145.253.181.63,2924510
+1536,,ZKA Zollkriminalamt|Bergisch Gladbacher Str. 837|D-51069 Koeln|GERMANY||,212.144.84.144 - 212.144.84.159,3808930
+1540,,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET|,217.7.142.208 - 217.7.142.223,16631971
+1566,,ZKA Zollkriminalamt|Weiglestr. 11-13|D-45128 Essen|Germany||,145.253.111.240 - 145.253.111.255,4227685
+1567,,ZKA Zollkriminalamt|Bergisch-Gladbacher-Str. 837|D-51069 Koeln|Germany||,145.253.64.0 - 145.253.64.15,4227610
+1568,,ZKA Zollkriminalamt|Landsberger Strasse 124|D-80339 Muenchen|Germany||,145.253.64.16 - 145.253.64.31,4227636
+1604,,TSBS GmbH fuer Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET2|,80.146.248.120 - 80.146.248.127,12716193
+1652,,Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET|,62.225.142.112 - 62.225.142.119,8348082
+1670,,TSBS GmbH fuer Zollkriminalamt||,62.225.189.24 - 62.225.189.31,10035032
+1698,2003:64:c017::/48,Ministerium des Innern fuer Sport und Infrastruktur RLP||MINISTERIUM-DES-INNERN-SPORT-INFRASTRUKTUR-MAINZ-NET|,,12676856
+1699,2a01:4f8:192:428e::/64,"Ministerium für Kultus, Jugend und Sport||MINISTERIUM-FUER-KULTUS-JUGEND-UND-SPORT|",,13044430
+1700,2a01:4f8:200:5363::/64,"Ministerium für Kultus, Jugend und Sport||MINISTERIUM-FUER-KULTUS-JUGEND-UND-SPORT|",,13235445
+1701,2a01:4f8:130:324e::/64,"Ministerium für Kultus, Jugend und Sport Referat 54 - Schulkunst||MINISTERIUM-FUER-KULTUS-JUGEND-UND-SPORT-REFERAT-54-SCHULKUNST|",,13347080
+1703,2a01:4f8:202:5048::/64,"Ministerium für Wirtschaft, Arbeit, Verkehr und Technologie SH||MINISTERIUM-FUER-WIRTSCHAFT-ARBEIT-VERKEHR-UND-TECHNOLOGIE-SH|",,14208831
+1704,2003:49:201b::/48,TSI fuer Ministerium des InnernLand Brandenburg||,,13823987
+1705,2003:64:c084::/48,"Ministerium des Innern, fr Sport und Infrastruktur||MINISTERIUM-DES-INNERN-MAINZ-NET|",,15573530
+1706,2003:c4:c815::/48,Hessisches Ministerium||HESSISCHES-MINISTERIUM-FULDABRUECK-NET|,,17289606
+1707,,"Ministerium fuer Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern||",193.175.51.0 - 193.175.51.255,602381
+1709,,Ministerium des Innern und fuer Sport Rheinland-Pfalz||MINISTERIUM-INNERN-SPORT-MAINZ|,217.89.43.24 - 217.89.43.31,3574913
+1710,,Network of Ministerium fuer LF Dresden||,194.196.76.0 - 194.196.76.255,175769
+1711,,"Ministerium fuer Finanzen u. Energie|des Landes Schleswig-Holstein|Duesternbrooker Weg, 24105 Kiel|Remote Connection to SAP||",194.117.124.151 - 194.117.124.151,212694
+1712,,Hessisches Ministerium fuer Wissenschaft und Kunst||,82.195.68.0 - 82.195.69.255,3969555
+1713,,"Ministerium des Innern, für Sport und Infrastruktur||MINISTERIUM-DES-INNERN-MAINZ-NET|",80.149.210.152 - 80.149.210.159,15537324
+1714,,"Ministerium fuer Bildung, Wissenschaft und Kultur|Mecklenburg-Vorpommern||",195.37.175.16 - 195.37.175.23,15276048
+1715,,Amt fuer Bundesbau Ministeriumder Finanzen||,217.243.145.240 - 217.243.145.247,15405054
+1716,,Ministerium fuer Inneres und Kommunales des NRW|Friedrichstr. 62|D-40217 Duesseldorf|GERMANY|Doku per Script Oktober 2015||,176.94.185.48 - 176.94.185.55,15409941
+1717,,Ministerium fuer Inneres und Kommunales des NRW|Friedrichstr. 62|D-40217 Duesseldorf|GERMANY|Doku per Script Oktober 2015||,176.94.185.176 - 176.94.185.183,15409936
+1718,,Hessisches Ministerium||HESSISCHES-MINISTERIUM-FULDABRUECK-NET|,87.191.41.176 - 87.191.41.183,17289608
+1719,,Ministerium fuer Umwelt und Forsten|Kaiser-Friedrich-Strasse 1|D-55116 Mainz||,213.139.133.144 - 213.139.133.159,6225898
+1720,,Ministerium fuer Umwelt und Forsten|Kaiser-Friedrich-Strasse 1|D-55116 Mainz||,213.139.136.16 - 213.139.136.31,6229553
+1721,,Ministerium fuer Bauen und Verkehr des Landes NRW|Juergensplatz 1|D-40219 Duesseldorf|GERMANY||,213.23.244.56 - 213.23.244.63,5841585
+1722,,Ministerium fuer Bauen und Verkehr des Landes NRW|Juergensplatz 1|D-40219 Duesseldorf|GERMANY||,213.23.244.48 - 213.23.244.55,5841584
+1723,,Hessisches Ministerium des Inneren|Konrad-Adenauer-Ring 49|D-65187 Wiesbaden|GERMANY||,88.79.163.128 - 88.79.163.135,7082893
+1724,,Nds. Ministerium f. Inneres u. Sport||,81.14.181.64 - 81.14.181.71,9842900
+1725,,Ministerium fuer Schule und Weiterbildung NRW|Voelklinger Str. 49|40221 Duesseldorf||,213.128.119.112 - 213.128.119.115,8221398
+1726,,Ministerium des Innern des Landes Brandenburg||,195.243.21.200 - 195.243.21.207,10330723
+1727,,TSI fuer Ministerium des InnernLand Brandenburg||,80.148.29.192 - 80.148.29.255,13674870
+1730,,"Ministerium fuer Inneres, Kultur und Europa||",195.243.128.32 - 195.243.128.47,11246841
+1732,,Amt fuer Verfassungsschutz Thueringer Ministerium||,87.234.225.230 - 87.234.225.230,18651833
+1733,,Amt fuer Verfassungsschutz Thueringer Ministerium||,87.234.252.0 - 87.234.252.3,18651835
+1743,2001:4dd0:f50b::/48,Bundesamt für Justiz|Gorch-Fock-Str.4|D-53229 Bonn||,,15079379
+1746,2001:638:81e::/48,Bundesamt fuer Sicherheit in der Informationstechnik|Bonn||ORG-CA1591-RIPE|,,17109063
+1748,2001:4dd0:f6a9::/48,Bundesamt fuer Justiz|Heinrich-von-Stephan-Str.9|D-53175 Bonn||,,16629964
+1749,2003:44:6035::/48,TSI fuer Bundesamt fuer Verfassungsschutz||,,16621403
+1751,2003:44:c0b1::/48,TSI fuer Bundeskanzleramt||BUNDESKANZLERAMT-BERLIN-NET6|,,15108580
+1752,,BSI Bundesamt für Sicherheit in der IT||,195.227.63.0 - 195.227.63.7,2179030
+1754,,Bundesamt fuer Wehrtechniek und Beschaffung|Platanenweg 37|53225 Bonn|Remote connection to SAP||,194.117.105.48 - 194.117.105.51,425430
+1755,,Bundesamt fuer Strahlenschutz|Rosastr. 9|79098 Freiburg||,193.174.231.0 - 193.174.231.255,406963
+1756,,Bundesamt fuer Sicherheit in der Informationstechnik|Bonn||ORG-CA1591-RIPE|,194.94.208.0 - 194.94.208.255,407031
+1757,,Bundesamt fuer Strahlenschutz|Salzgitter||,193.174.230.0 - 193.174.230.255,406960
+1758,,Bundesamt fuer Strahlenschutz|Salzgitter||,195.37.146.0 - 195.37.146.255,406966
+1759,,Bundesamt fuer Naturschutz||BUNDESAMT-FUER-NATURSCHUTZ-NET|,62.153.208.72 - 62.153.208.79,490805
+1763,,Bundesamt fuer Finanzen|An der Kueppe 2|53225 Bonn||,80.245.144.0 - 80.245.147.255,3977966
+1775,,TSI fuer Bundesamt fuer Verfassungsschutz||,80.150.252.112 - 80.150.252.119,14708157
+1784,,TSI fuer Bundesamt fuer Sicher-heit in der Informationtechnik||BUNDESAMT-FUER-SICHERHEIT-BONN-NET|,80.157.7.64 - 80.157.7.71,13335055
+1796,,TSI fuer Bundesamt fuer Verfassungsschutz||,217.5.178.16 - 217.5.178.31,13722103
+1802,,Bundesamt fuer Verbraucherschutz und Lebensmittelsicherheit||,195.37.232.248 - 195.37.232.255,14221997
+1811,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,87.193.31.97 - 87.193.31.97,16610190
+1812,,Bundesamt fuer Wirtschaft und Ausfuhrkontrolle||,83.236.222.48 - 83.236.222.55,16610197
+1815,,Bundesamt fuer Migration und Fluechtlinge||,92.198.24.129 - 92.198.24.129,18299724
+1816,,Bundesamt fuer Migration und Fluechtlinge||,213.160.23.224 - 213.160.23.227,18299748
+1820,,"Bundesinstitut f.r Berufsbildung|Friedrich-Ebert-Allee 38, 53113 Bonn|Remote connection to SAP||",217.77.242.160 - 217.77.242.160,1891530
+1822,,Julius Kuehn-Institut|Bundesforschungsinstitut fuer Kulturpflanzen||,194.94.56.0 - 194.94.63.255,406955
+1829,2001:638:610::/48,Physikalisch-Technische Bundesanstalt||,,7797427
+1830,2003:48:2055::/48,Bundeslehranstalt Burg Warberge.V.||BUNDESLEHRANSTALT-WARBERG-NET|,,14979525
+1833,2003:4f:40c5::/48,Bundesanstalt fuer Immobilien-aufgaben||,,17918665
+1836,,Bundesanstalt fuer Gewaesserkunde|Berlin||,193.175.193.0 - 193.175.193.255,406961
+1837,,Bundesanstalt fuer Wasserbau|Aussenstelle Kueste|Hamburg-Rissen||,194.95.180.0 - 194.95.181.255,406112
+1838,,"Bundesanstalt fuer Geowissenschaften und Rohstoffe|Stilleweg 2, 30655 Hannover|Remote connection to SAP||",212.63.174.9 - 212.63.174.9,451128
+1844,,Bundesanstalt fuer Arbeit Arbeitsamt Hohenwestedt||,212.184.90.200 - 212.184.90.207,2023229
+1855,,Bundesanstalt fuer Arbeit Arbeitsamt Trostberg||,217.6.96.40 - 217.6.96.47,2145644
+1858,,Bundesanstalt fuer Arbeit Arbeitsamt Leipzig||,195.243.141.0 - 195.243.141.7,2219475
+1859,,Bundesanstalt fuer Arbeit Arbeitsamt Koenigs Wusterhausen||,217.5.150.232 - 217.5.150.239,2246948
+1860,,Bundesanstalt fuer Arbeit Arbeitsamt Beeskow||,62.157.145.248 - 62.157.145.255,2247000
+1861,,Bundesanstalt fuer Arbeit Arbeitsamt Leonberg||,217.5.149.72 - 217.5.149.79,2248410
+1862,,Bundesanstalt fuer Arbeit Arbeitsamt Salzwedel||,217.5.219.136 - 217.5.219.143,2246965
+1863,,Bundesanstalt fuer Arbeit Arbeitsamt  Grossenhain||,217.6.122.24 - 217.6.122.31,2248389
+1864,,Bundesanstalt fuer Arbeit Arbeitsamt Springe||,62.154.254.216 - 62.154.254.223,2248416
+1865,,Bundesanstalt fuer Arbeit Arbeitsamt Uetersen||,212.184.87.128 - 212.184.87.135,2257377
+1876,,Bundesanstalt fuer Arbeit Arbeitsamt Euskirchen||,212.185.26.72 - 212.185.26.79,2001405
+1882,,Bundesanstalt fuer Arbeit Arbeitsamt Frankenberg||,217.243.190.160 - 217.243.190.167,2309882
+1883,,Bundesanstalt fuer Arbeit Arbeitsamt Moelln||,217.6.8.248 - 217.6.8.255,2333952
+1884,,Bundesanstalt fuer Arbeit Arbeitsamt Duisburg||,217.243.190.136 - 217.243.190.143,2309880
+1886,,Bundesanstalt fuer Arbeit Arbeitsamt Ettlingen||,62.159.157.8 - 62.159.157.15,2337049
+1903,,Bundesanstalt fuer Arbeit Arbeitsamt Essen||,212.184.5.120 - 212.184.5.127,1766313
+1904,,Bundesanstalt fuer Arbeit Arbeitsamt Neubrandenburg||,217.6.8.136 - 217.6.8.143,1785727
+1924,,Bundesanstalt fuer Arbeit Arbeitsamt Albstadt||,195.243.196.64 - 195.243.196.71,2066669
+1926,,Bundesanstalt fuer Arbeit Arbeitsamt Werl||,195.243.250.184 - 195.243.250.191,2072121
+1927,,Bundesanstalt fuer Arbeit Arbeitsamt Augsburg||,217.5.165.56 - 217.5.165.63,2098895
+1929,,Bundesanstalt fuer Arbeit Arbeitsamt Saarlouis||,217.5.165.32 - 217.5.165.39,2098890
+1935,,Bundesanstalt fuer Arbeit Arbeitsamt Kassel||,195.243.250.160 - 195.243.250.167,2072106
+1964,,Bundesanstalt fuer Arbeit Arbeitsamt Eberswalde||,195.145.225.232 - 195.145.225.239,1785771
+1968,,Bundesanstalt fuer Arbeit Arbeitsamt Weilheim||,80.154.5.72 - 80.154.5.79,2019386
+1971,,Bundesanstalt fuer Arbeit Arbeitsamt Geldern||,195.243.196.96 - 195.243.196.103,2066677
+1979,,Bundesanstalt fuer Arbeit Arbeitsamt Quedlinburg||,195.243.248.176 - 195.243.248.183,2358695
+1984,,Bundesanstalt fuer Arbeit Arbeitsamt Freiburg||,212.185.166.184 - 212.185.166.191,2332201
+1988,,Bundesanstalt fuer Arbeit Arbeitsamt Gronau||,212.185.113.64 - 212.185.113.71,2375503
+1994,,Bundesanstalt fuer Arbeit Arbeitsamt Weinheim||,217.5.220.32 - 217.5.220.39,2383802
+1995,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Kreuznach||,195.243.251.184 - 195.243.251.191,2383912
+1996,,Bundesanstalt fuer Arbeit Arbeitsamt Apolda||,195.243.248.160 - 195.243.248.167,2358836
+2005,,Bundesanstalt fuer Arbeit Arbeitsamt Dortmund||,212.184.74.0 - 212.184.74.7,2190498
+2044,,Bundesanstalt fuer Arbeit Arbeitsamt Aschaffenburg||,62.153.64.72 - 62.153.64.79,1878979
+2045,,Bundesanstalt fuer Arbeit Arbeitsamt Solingen||,62.153.71.0 - 62.153.71.7,1858876
+2055,,Bundesanstalt fuer Zuechtungs- forschung an Kulturpflanzen||,212.184.194.240 - 212.184.194.247,12738484
+2056,,Bundesanstalt Technisches Hilfswerk||BUNDESANSTALT-TECHNISCHES-HILFSWERK|,144.76.88.72 - 144.76.88.72,13021516
+2058,,"Bundesanstalt fuer Arbeitsschutz|Dortmund, de||",213.71.7.184 - 213.71.7.191,7283758
+2066,,Bundesanstalt fuer IT-Dienstleistungen|Am Ehrenberg 8|D-98693 Illmenau||,80.228.247.208 - 80.228.247.223,12899326
+2069,,Bundesanstalt fuer IT-Dienstleistungen|Am Ehrenberg 8|D-98693 Illmenau||BUNDESANSTALT_FUER_IT-DIENSTLEISTUNGEN-NET2|,85.16.114.64 - 85.16.114.79,14562761
+2070,,Bundesanstalt fuer Immobilien-aufgaben||BUNDESANSTALT-FUER-IMMOBILIENAUFGABEN-BONN-NET|,217.7.146.128 - 217.7.146.135,15228332
+2071,,Bundesanstalt fuer Finanzdienstleistungsaufsicht||,83.236.222.145 - 83.236.222.145,15115256
+2073,,Bundesanstalt fuer Finanzmarktstabilisierung||,185.19.173.16 - 185.19.173.19,14812494
+2075,,Bundesanstalt fuer Arbeitsschutz und Arbeitsmedizin|Friedrich-Henkel-Weg 1-25|D-44149 Dortmund||,85.22.95.8 - 85.22.95.15,16206939
+2076,,Bundesanstalt fuer Immobilien-aufgaben||,87.137.69.24 - 87.137.69.31,17880869
+2077,,Bundesanstalt fuer Immobilien-aufgaben||,87.137.69.40 - 87.137.69.47,17880908
+2081,2003:54:e04d::/48,TSI fuer Bundesagentur fuer Arbeit||,,15282580
+2083,2003:49:e054::/48,TSI fuer Bundesagentur fuer Arbeit||,,15144371
+2084,2003:65:e045::/48,TSI fuer Bundesagentur fuer Arbeit||,,15277762
+2087,2003:5f:2019::/48,TSI fuer Bundesagentur fuer Arbeit||,,15266730
+2088,2003:73:a017::/48,TSI fuer Bundesagentur fuer Arbeit||,,15269578
+2091,2003:51:a01d::/48,TSI fuer Bundesagentur fuer Arbeit||,,15265228
+2095,2001:4dd0:f05f::/48,Bundesnetzagentur|Tulpenfeld 4|D-53113 Bonn||,,15270740
+2096,2003:40:407a::/48,TSI fuer Bundesagentur fuer Arbeit||,,15265641
+2099,2003:4f:406f::/48,TSI fuer Bundesagentur fuer Arbeit||,,15265888
+2106,2003:47:43::/48,Bundesnetzagentur||BUNDESNETZAGENTUR-BONN-NET|,,16402193
+2109,2003:88:4015::/48,TSI fuer Bundesagentur fuer Arbeit||,,17183785
+2118,2003:4b:2054::/48,TSI fuer Bundesagentur fuer Arbeit||,,15120040
+2120,2003:8b:c014::/48,TSI fuer Bundesagentur fuer Arbeit||,,16830115
+2121,2003:87:601c::/48,TSI fuer Bundesagentur fuer Arbeit||,,17270538
+2123,2003:4d:17::/48,TSI fuer Bundesagentur fuer Arbeit||,,17252707
+2141,,"Bundesagentur Fuer Aussenwirtschaft|Koeln, DEU||",213.71.14.48 - 213.71.14.55,5257538
+2148,,BUNDESAGENTUR-FUER-ARBEIT-HEIDELBERG-NET|,217.7.58.72 - 217.7.58.79,7528443
+2149,,Bundesnetzagentur||BUNDESNETZAGENTUR-DRESDEN-NET|,62.159.211.248 - 62.159.211.255,8626342
+2150,,TSI fuer Bundesagentur fuer Arbeit||,80.157.80.112 - 80.157.80.119,14074467
+2151,,TSI fuer Bundesagentur fuer Arbeit||,80.157.80.120 - 80.157.80.127,14074470
+2152,,TSI fuer Bundesagentur fuer Arbeit||,80.157.80.104 - 80.157.80.111,14074461
+2153,,TSI fuer Bundesagentur fuer Arbeit||,80.157.78.80 - 80.157.78.87,14074454
+2154,,TSI fuer Bundesagentur fuer Arbeit||,195.243.95.0 - 195.243.95.7,14173902
+2155,,Bundesagentur fuer Arbeit|Regensburger Strasse 104|90478 Nuernberg|Germany||,213.23.124.96 - 213.23.124.127,9392634
+2174,,TSI fuer Bundesagentur fuer Arbeit||,193.158.248.32 - 193.158.248.39,17231504
+2175,,TSI fuer Bundesagentur fuer Arbeit||,194.25.229.208 - 194.25.229.215,17231503
+2177,,Bundesnetzagentur|Zur Allmannshoehe 272|D-78464 Konstanz|GERMANY||,176.94.224.192 - 176.94.224.199,15798470
+2179,,Bundesnetzagentur||BUNDESNETZAGENTUR-TULPENFELD-BONN-NET|,212.184.12.200 - 212.184.12.207,16435788
+2181,,Bundesnetzagentur|Tulpenfeld 4|D-53113 Bonn|GERMANY||,145.253.167.240 - 145.253.167.247,16255308
+2196,,"Bundesnetzagentur  Mainz|Mainz, de||",195.124.88.0 - 195.124.88.63,14722063
+2202,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.104 - 80.149.166.111,15262455
+2205,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.0 - 80.149.166.7,15262318
+2209,,TSI fuer Bundesagentur fuer Arbeit||,80.149.166.120 - 80.149.166.127,15262476
+2210,,TSI fuer Bundesagentur fuer Arbeit||,212.184.223.208 - 212.184.223.215,16651568
+2211,,TSI fuer Bundesagentur fuer Arbeit||,62.153.173.200 - 62.153.173.207,16657384
+2221,,TSI fuer Bundesagentur fuer Arbeit||,80.154.78.48 - 80.154.78.55,17724361
+2224,,TSI fuer Bundesagentur fuer Arbeit||,87.128.200.152 - 87.128.200.159,18302034
+2228,,Bundesverwaltungsgericht||,212.122.48.192 - 212.122.48.199,16323490
+2229,,DTAG-WAN-BUNDESARBEITSGERICHT-NET|,80.149.119.12 - 80.149.119.15,8160543
+2252,,Bundesamt fuer Strahlenschutz|Salzgitter||,194.94.68.0 - 194.94.69.255,406965
+2256,,Bundesamt fuer Strahlenschutz|Salzgitter||,193.175.170.0 - 193.175.170.255,406964
+2276,,Bundesamt fuer Sicherheit in der IT||,195.227.15.176 - 195.227.15.191,4254436
+2313,,Bundesanstalt fuer Arbeit Arbeitsamt Ribnitz-Damgarten||,212.184.181.152 - 212.184.181.159,1888588
+2315,,Bundesanstalt fuer Arbeit Arbeitsamt Emmendingen||,212.185.166.176 - 212.185.166.183,2332196
+2319,,Bundesanstalt fuer Arbeit Arbeitsamt Soemmerda||,217.6.87.64 - 217.6.87.71,2359004
+2322,,"Bundesanstalt fur Finanzdienstleistungsaufsicht|Graurheindorfer Strasse 108, 53117 Bonn|Remote connection to SAP||",217.77.240.237 - 217.77.240.237,2625305
+2332,,Bundesanstalt fuer Arbeit Arbeitsamt Aurich||,217.5.221.128 - 217.5.221.135,2398128
+2333,,Bundesanstalt fuer Arbeit Arbeitsamt Memmingen||,217.6.137.128 - 217.6.137.135,2398132
+2348,,Bundesanstalt fuer Arbeit Bad Liebenwerda||,217.5.216.248 - 217.5.216.255,2073475
+2349,,Bundesanstalt fuer Arbeit Arbeitsamt Beckum||,195.243.196.72 - 195.243.196.79,2066670
+2439,,Bundesanstalt fuer Materialforschung und -pruefung|Berlin||,141.63.0.0 - 141.63.255.255,232511
+2440,,Physikalisch-Technische Bundesanstalt|Institut Berlin Charlottenburg||,193.175.216.0 - 193.175.216.255,221891
+2450,,Bundesanstalt fuer Arbeit Arbeitsamt Schwalmstadt||,217.243.190.168 - 217.243.190.175,2309881
+2456,,Bundesanstalt fuer Arbeit Arbeitsamt Waghaeusel||,62.159.157.0 - 62.159.157.7,2337048
+2470,,Bundesanstalt fuer Arbeit Arbeitsamt Diez||,217.6.138.24 - 217.6.138.31,2083487
+2473,,Bundesanstalt fuer Arbeit Arbeitsamt Linz||,212.185.43.32 - 212.185.43.39,2098904
+2484,,Bundesanstalt fuer Arbeit Arbeitsamt Bad Schwalbach||,217.6.87.80 - 217.6.87.87,2358889
+2493,,Bundesanstalt fuer Arbeit Arbeitsamt Memmingen||,62.153.234.144 - 62.153.234.151,2404808
+2498,,Bundesanstalt fuer Arbeit Arbeitsamt Wolmirstedt||,195.243.251.160 - 195.243.251.167,2383908
+2517,,Bundesanstalt fuer Arbeit Arbeitsamt Laatzen||,212.184.74.144 - 212.184.74.151,2196682
+2575,2003:56:c068::/48,TSI fuer Bundesagentur fuer Arbeit||,,15279262
+2581,2003:6c:4049::/48,TSI fuer Bundesagentur fuer Arbeit||,,15277743
+2604,2003:6a:20ba::/48,TSI fuer Bundesagentur fuer Arbeit||,,16667653
+2615,,TSI fuer Bundesagentur fuer Arbeit||,87.128.228.16 - 87.128.228.23,16647385
+2617,,TSI fuer Bundesagentur fuer Arbeit||,80.157.80.136 - 80.157.80.143,14074499
+2628,,TSI fuer Bundesagentur fuer Arbeit||,212.184.85.8 - 212.184.85.15,15260585
+2633,,TSI fuer Bundesagentur fuer Arbeit||,80.150.212.184 - 80.150.212.191,15260602
+2658,,TSI fuer Bundesagentur fuer Arbeit||,195.145.206.56 - 195.145.206.63,12420542
+2681,,Informationstechnikzentrum Bund|An der Kueppe 2|53225 Bonn||,80.228.22.200 - 80.228.22.207,18345669
+2682,,Informationstechnikzentrum Bund|An der Kueppe 2|53225 Bonn||,91.249.145.32 - 91.249.145.63,18345971
+2683,2a01:4f8:d13:2a84::/64,FRIEDRICH-LOEFFLER-INSTITUT-FUER-MEDIZINISCHE-MIKROBIOLOGIE|,,14254865
+2684,,Friedrich-Loeffler-Institut||HTP-FRIEDRICH-LOEFFLER-INSTITUT|,81.14.180.128 - 81.14.180.135,9055379
+2685,,FRIEDRICH-LOEFFLER-INSTITUT-CELLE-NET|,80.150.197.208 - 80.150.197.215,9360234
+2686,,FRIEDRICH-LOEFFLER-INSTITUT-BRAUNSCHWEIG-NET|,80.150.197.216 - 80.150.197.223,9360254
+2687,2003:46:2d::/48,TSI fuer Robert-Koch-Institut||ROBERT-KOCH-INSTITUT-BERLIN-NET2|,,14765130
+2688,,Robert-Koch-Institut||ROBERT-KOCH-INSTITUT-BERLIN-NET|,194.25.26.96 - 194.25.26.103,8491133
+2689,,DTAG-WAN-ROBERT-KOCH-INSTITUT-BERLIN-NET|,194.25.26.76 - 194.25.26.79,8491145
+2691,,Robert-Koch-Institut|Berlin||,195.37.173.16 - 195.37.173.23,18113230
+2693,,Max Rubner-Institut Bundes- forsch.f.Lebensmittel+Ernaehr.||,193.158.44.232 - 193.158.44.239,12802644
+2697,2003:5d:2045::/48,GENERALZOLLDIREKTION-NEUSTADT-NET|,,17214543
+2698,2003:47:2078::/48,GENERALZOLLDIREKTION-BONN-NET|,,16651187
+2699,,GENERALZOLLDIREKTION-NEUSTADT-NET|,217.89.147.216 - 217.89.147.223,16646454
+2700,,GENERALZOLLDIREKTION-BONN-NET|,217.5.230.152 - 217.5.230.159,16596960
+2726,,Umweltbundesamt|Berlin||,193.174.168.0 - 193.174.175.255,244800
+2727,,"UMWELTBUNDESAMT DESSAU|Dessau, de||",195.125.174.112 - 195.125.174.127,522308
+2728,,UMWELTBUNDESAMT||NET-DE-UMWE-TBUNDESAMT|,213.61.59.56 - 213.61.59.63,5725753
+2729,,UMWELTBUNDESAMT||NET-DE-UMWELTBUNDESAMT|,217.111.80.128 - 217.111.80.143,4237014
+2732,2003:64:601f::/48,Zollkriminalamt||ZOLLKRIMINALAMT-DIENSTSITZ-MUENSTER-NET|,,15112780
+2740,,Saechsische Landespolizei/LKA Zollkriminalamt|Kopernikusstr. 76|D-15236 Frankfurt|GERMANY||,178.15.208.56 - 178.15.208.63,10358993
+2741,,Zollkriminalamt||,62.159.142.40 - 62.159.142.47,10388176
+2742,,TSBS GmbH fuer Zollkriminalamt||,212.185.15.232 - 212.185.15.239,10034965
+2745,,ZKA Zollkriminalamt|Moosbuerger Str. 20|D-92637 Weiden|Germany||,176.94.140.8 - 176.94.140.15,13549997
+2746,,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-KOELN-NET|,217.89.96.192 - 217.89.96.207,13394949
+2748,,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-BAHRATAL-NET|,195.243.87.72 - 195.243.87.79,12810910
+2749,,TSI fuer Zollkriminalamt||ZOLLKRIMINALAMT-BONN-NET|,194.25.28.192 - 194.25.28.207,13908019
+2752,,Zollkriminalamt||ZOLLKRIMINALAMT-DIENSTSITZ-MUENSTER-NET|,217.243.129.112 - 217.243.129.119,15098337
+2753,2001:638:302::/48,Deutscher Wetterdienst Offenbach||,,1972289
+2754,,Deutscher Wetterdienst|Frankfurter Strasse 135|D-63067 Offenbach/Main|Germany||,195.126.101.80 - 195.126.101.95,2534597
+2755,,Frankfurter Strasse 135|D-63067 Offenbach/Main|Germany|Deutscher Wetterdienst|Kaiserleistr. 29-35||,213.68.138.128 - 213.68.138.191,3880725
+2756,,Wetterpark Deutscher Wetterdienst||,83.236.210.205 - 83.236.210.205,15732450
+2757,,Zentrale Deutscher Wetterdienst||,87.193.229.20 - 87.193.229.20,15706148
+2758,,Servicestuetzpunkt Muenchen Deutscher Wetterdienst||,87.234.32.152 - 87.234.32.152,15714688
+2759,,Wetterpark Deutscher Wetterdienst||,87.193.252.155 - 87.193.252.155,15710254
+2760,,Servicestuetzpunkt Essen Deutscher Wetterdienst||,83.236.228.48 - 83.236.228.48,15929736
+2761,,Servicestuetzpunkt Hamburg Sasel Deutscher Wetterdienst||,87.193.222.24 - 87.193.222.24,15706127
+2762,,Regionalzentrale Muenchen Deutscher Wetterdienst||,87.193.228.45 - 87.193.228.45,15706118
+2764,,"Deutscher Wetterdienst|Frankfurt, de||",195.124.89.32 - 195.124.89.63,12011396
+2765,2001:638:1912::/48,Deutsche Nationalbibliothek|Adickesalle 1|60322 Frankfurt am Main||,,12939663
+2766,,Deutsche Nationalbibliothek|Deutsche Bibliothek Frankfurt|Deutsche Buecherei Leipzig|Deutsches Musikarchiv Berlin||,193.175.96.0 - 193.175.103.255,233986
+2767,2a01:4f8:120:3406::/64,Deutsches Archäologisches Institut||,,12662772
+2772,2003:60:4033::/48,DTAG-BILDUNGSZENTRUM-DER-BUNDESWEHR-MANNHEIM-NET|,,14708405
+2773,2003:44:4037::/48,BUNDESWEHR-LECHFELDKASERNE-GRABEN-NET|,,14736196
+2774,2003:55:e031::/48,ZENTRUM-ZMZ-BUNDESWEHR-CLAUSEWITZ-KASERNE-NIENBURG-NET|,,14734885
+2778,2a02:1030:8000::/34,ORG-BMV1-RIPE|,,15105924
+2801,2a02:103d:a000::/36,ORG-BMV1-RIPE|,,15117057
+2802,2a02:1017::/32,ORG-BMV1-RIPE|,,15105688
+2818,2a02:1031::/33,ORG-BMV1-RIPE|,,15109769
+2831,2a02:1032:8000::/34,ORG-BMV1-RIPE|,,15109914
+2832,2a02:1033::/32,ORG-BMV1-RIPE|,,15110072
+2833,2a02:1033::/33,ORG-BMV1-RIPE|,,15112811
+2836,2a02:1032:c000::/40,ORG-BMV1-RIPE|,,15109964
+2847,,Bundeswehr Systeminstandsetzungszentrum 870|76887 Bad Bergzabern|Remote connection to SAP||,195.112.190.74 - 195.112.190.74,200217
+2854,,Bundeswehr|,80.254.131.192 - 80.254.131.199,10544650
+2855,,Bundeswehr|,80.254.137.192 - 80.254.137.207,10552013
+2856,,Bundeswehr|,80.254.137.168 - 80.254.137.175,10551462
+2857,,Verband der Reservisten der Deutschen Bundeswehr e.V.|Zeppelinstr. 7a|D-53177 Bonn||,213.168.75.216 - 213.168.75.223,10905487
+2858,,BUNDESWEHR-LECHFELDKASERNE-GRABEN-NET|,87.128.204.176 - 87.128.204.183,14717402
+2860,,Bundeswehr Olympiastuetzpunkt Warendorf|Dr.-Rau-Allee 32|D-48231 Warendorf|GERMANY||,176.94.209.216 - 176.94.209.223,15853035
+2861,,BUNDESWEHR-SOZIALWERK-BONN-NET|,195.243.131.216 - 195.243.131.223,15907125
+2863,,AMEDON-BUNDESWEHR-HOUSING-NET1|,195.244.111.160 - 195.244.111.175,15419827
+2874,,RECHENZENTRUM-DER-BUNDESWEHR-STRAUSBERG-NET|,194.25.26.152 - 194.25.26.159,8163703
+2875,,ZOpInfo S4 - Bundeswehr IP Network||DE-KEYWEB-BUNDESWEHR|,87.118.72.160 - 87.118.72.175,10231838
+2878,,Verband der Reservisten der Dt. Bundeswehr e.V.||,213.160.28.136 - 213.160.28.143,12963429
+2888,,BUNDESWEHR-SKUKDO-G-6-FRANKFURT-NET|,62.159.84.56 - 62.159.84.63,12773326
+2889,,BUNDESWEHR-KRANKENHAUS-BERLIN-NET|,62.157.86.232 - 62.157.86.239,17975199
+2962,2001:638:810::/48,Deutscher Bundestag|11011 Berlin||BUNDESTAG|,,7114395
+2964,2001:638:819::/48,Deutscher Bundestag|11011 Berlin||ORG-DB45-RIPE|,,14700925
+2965,2003:44:c0a9::/48,WESTTOURS-REISEN-DEUTSCHER-BUNDESTAG-BERLIN-NET|,,15090959
+2971,,WESTTOURS-REISEN-DEUTSCHER-BUNDESTAG-BERLIN-NET|,217.5.233.136 - 217.5.233.143,15086880
+2977,2003:5b:32::/48,"Ges. f. Entwicklung, Beschaffung u. Betrieb mbH (g.||",,14438239
+2978,,"Ges. f. Entwicklung, Beschaffung u. Betrieb mbH (g.||",217.6.198.64 - 217.6.198.71,14458724
+2979,,"Ges. f. Entwicklung, Beschaffung u. Betrieb mbH (g.||",62.153.155.168 - 62.153.155.171,14469605
+2980,,"Ges. f. Entwicklung, Beschaffung u. Betrieb mbH (g.||",62.157.182.80 - 62.157.182.87,14863794
+2981,,"Ges. f. Entwicklung, Beschaffung u. Betrieb mbH (g.||",62.157.196.176 - 62.157.196.191,16138791
+2987,,ORG-BL254-RIPE|,85.215.2.40 - 85.215.2.47,16264688
+2997,2a02:1017:8000::/33,ORG-BMV1-RIPE|,,15105730
+3005,2a02:1031::/32,ORG-BMV1-RIPE|,,15109788
+3010,2a02:103e:2000::/36,ORG-BMV1-RIPE|,,15117205
+3012,2a02:1034:8000::/33,ORG-BMV1-RIPE|,,15112885
+3016,2a02:103f:8000::/33,ORG-BMV1-RIPE|,,15116714
+3046,2a02:1032::/34,ORG-BMV1-RIPE|,,15109842
+3053,2a02:1022::/32,ORG-BE20-RIPE|,,11270881
+3054,,ORG-BE20-RIPE|,141.15.0.0 - 141.15.255.255,243405
+3074,,ORG-PA133-RIPE|,91.209.250.0 - 91.209.250.255,7120307
+3082,2001:67c:1364::/48,ORG-DW2-RIPE|,,12648298
+3083,,ORG-DW2-RIPE|,141.38.0.0 - 141.38.255.255,244883
+3086,,ORG-BVA15-RIPE|,193.23.252.0 - 193.23.252.255,155159
+3087,,ORG-BVA15-RIPE|,193.30.80.0 - 193.30.87.255,155408
+3088,,ORG-ST167-RIPE|,164.133.0.0 - 164.133.255.255,153440
+3092,,ORG-BAMF1-RIPE|,193.24.128.0 - 193.24.191.255,365319
+3093,,ORG-LFA24-RIPE|,213.211.244.112 - 213.211.244.119,17553705
+3094,,ORG-BFSU1-RIPE|,141.17.0.0 - 141.17.255.255,243458
+3095,,ORG-FA511-RIPE|,193.22.112.0 - 193.22.115.255,10122865
+3096,,ORG-FA511-RIPE|,192.108.34.0 - 192.108.34.255,244877
+3100,,ORG-BWI1-RIPE|,91.221.58.0 - 91.221.59.255,9115670
+3107,2a03:8ae0::/32,ORG-DB70-RIPE|,,14710001
+3108,,ORG-DB70-RIPE|,185.92.76.0 - 185.92.79.255,14710034
+3109,,ORG-LW49-RIPE|,85.215.4.248 - 85.215.4.255,17592527
+3111,,ORG-BNTA1-RIPE|,194.76.151.0 - 194.76.151.255,159189
+3112,,ORG-BNTA1-RIPE|,194.156.216.0 - 194.156.223.255,160957
+3113,,ORG-BA202-RIPE|,77.87.224.0 - 77.87.231.255,5754698
+3115,2a02:1000::/26,ORG-BdI1-RIPE|,,8055767
+3122,,ORG-BdI1-RIPE|,31.12.32.0 - 31.12.63.255,9719634
+3123,,ORG-BdI1-RIPE|,81.160.0.0 - 81.160.127.255,18204922
+3124,,ORG-BfF1-RIPE|,80.245.144.0 - 80.245.159.255,3970100
+3129,,ORG-BfKu1-RIPE|,141.74.0.0 - 141.74.255.255,434568
+3135,,ORG-BDR2-RIPE|,193.28.64.0 - 193.28.71.255,252925
+3136,,ORG-BDR2-RIPE|,192.124.252.0 - 192.124.252.255,244849
+3138,,ORG-UDBM2-RIPE|,137.193.0.0 - 137.193.255.255,233994
+3141,,ORG-KBS6-RIPE|,62.153.103.128 - 62.153.103.191,12060627
+3151,,ORG-DPUM1-RIPE|,194.59.96.0 - 194.59.127.255,492113

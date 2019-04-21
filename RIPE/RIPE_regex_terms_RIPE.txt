@@ -1,0 +1,51 @@
+bundes[\w-]*amt
+bundes[\w-]*institut
+bundes[\w-]*anstalt
+bundes[\w-]*agentur
+bundes[\w-]*gericht
+Bundesliegenschaft
+Bundeswehr
+Bundestag
+Bundesregierung
+Bundesrat
+Landtag
+Bundesdruckerei
+parlament
+ministerium
+Informationstechnikzentrum Bund
+Friedrich-Loeffler-Institut
+Auswärtiges Amt
+Zentrum für Informationsverarbeitung und Informationstechnik
+Informationstechnikzentrum Bund
+Friedrich-Loeffler-Institut
+Johann Heinrich von Thünen-Institut 
+Robert-Koch-Institut
+Paul-Ehrlich-Institut
+Max Rubner-Institut
+Julius Kühn-Institut
+Deutsches Patent- und Markenamt
+Generaldirektion Wasserstraßen und Schifffahrt
+Generalzolldirektion
+Hauptzollämter
+Bundesnetzagentur
+Umweltbundesamt
+Zentrale Stelle für Informationstechnik im Sicherheitsbereich	
+Zollkriminalamt 
+Deutscher Wetterdienst
+Deutsche Nationalbibliothek
+Deutsches Archäologisches Institut
+Bundeszentrale für politische Bildung
+Gemeinsame Einrichtung des Bundes und der Küstenländer
+Bundesarchiv 
+Bundesmonopolverwaltung für Branntwein
+Bundesstelle für Flugunfalluntersuchung
+Bundesnachrichtendienst 
+Bundespolizeipräsidium
+Bundesstelle für Seeunfalluntersuchung
+Bundesprüfstelle für jugendgefährdende Medien
+Bundeszentrale für gesundheitliche Aufklärung
+Havariekommando – Gemeinsame Einrichtung des Bundes und der Küstenländer
+Zollämter 
+Zollfahndungsämter
+Gemeinsame Einrichtung des Bundes und der Küstenländer
+Ges. f. Entwicklung, Beschaffung u. Betrieb mbH
